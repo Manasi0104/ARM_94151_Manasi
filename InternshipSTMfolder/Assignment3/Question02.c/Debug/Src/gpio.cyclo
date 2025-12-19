@@ -1,0 +1,4 @@
+../Src/gpio.c:10:6:led_init	1
+../Src/gpio.c:26:6:switch_init	1
+../Src/gpio.c:37:5:led_status	1
+../Src/gpio.c:41:5:switch_status	2
