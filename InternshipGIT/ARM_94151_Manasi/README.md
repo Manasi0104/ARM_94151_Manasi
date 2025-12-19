@@ -1,2 +1,0 @@
-# ARM_94151_Manasi
-Internship_ARM_Data
