@@ -1,0 +1,21 @@
+09:27:23 **** Incremental Build of configuration Debug for project LED_switch_ext1 ****
+make -j4 all 
+arm-none-eabi-gcc "../Src/led.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F407G_DISC1 -DSTM32F4 -DSTM32F407VGTx -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/led.d" -MT"Src/led.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=soft -mthumb -o "Src/led.o"
+arm-none-eabi-gcc -o "LED_switch_ext1.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\InternshipGIT\ARM_94151_Manasi\InternshipSTMfolder\Day5_Class_work\LED_switch_ext1\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="LED_switch_ext1.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: LED_switch_ext1.elf
+ 
+arm-none-eabi-size  LED_switch_ext1.elf 
+arm-none-eabi-objdump -h -S LED_switch_ext1.elf  > "LED_switch_ext1.list"
+   text	   data	    bss	    dec	    hex	filename
+   1408	      4	   1564	   2976	    ba0	LED_switch_ext1.elf
+Finished building: default.size.stdout
+ 
+Finished building: LED_switch_ext1.list
+ 
+09:27:37 **** Incremental Build of configuration Debug for project LED_switch_ext1 ****
+make -j4 all 
+arm-none-eabi-size  LED_switch_ext1.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1408	      4	   1564	   2976	    ba0	LED_switch_ext1.elf
+Finished building: default.size.stdout
+ 
