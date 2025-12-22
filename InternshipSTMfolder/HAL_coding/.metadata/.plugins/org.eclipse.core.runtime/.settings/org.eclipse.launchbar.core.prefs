@@ -1,0 +1,15 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+activeLaunchTarget=null\:---
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:A03Question03 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:A03Question_03 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:A03Question05 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:A03Question01 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:A03Question02 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Led_toggle_Using_HAL Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:A03Question01\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:A03Question03\ Debug/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:A03Question01\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:A03Question02\ Debug/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:A03Question02\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:A03Question03\ Debug/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:A03Question03\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Led_toggle_Using_HAL\ Debug/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Led_toggle_Using_HAL\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

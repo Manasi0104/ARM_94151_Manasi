@@ -1,0 +1,10 @@
+09:23:40 **** Incremental Build of configuration Debug for project Led_toggle_Using_HAL ****
+make -j4 all 
+arm-none-eabi-size  Led_toggle_Using_HAL.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6104	     12	   1572	   7688	   1e08	Led_toggle_Using_HAL.elf
+Finished building: default.size.stdout
+ 
+
+09:23:41 Build Finished. 0 errors, 0 warnings. (took 524ms)
+
