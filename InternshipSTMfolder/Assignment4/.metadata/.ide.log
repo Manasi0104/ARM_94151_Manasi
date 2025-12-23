@@ -1,0 +1,1547 @@
+2025-12-18 08:31:15,226 [INFO] Activator:176 - 
+
+
+2025-12-18 08:31:15,239 [INFO] Activator:177 - !SESSION log4j initialized
+2025-12-18 08:31:24,216 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2025-12-18 08:31:30,412 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 08:31:30,437 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 08:31:30,479 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 08:31:32,110 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659
+2025-12-18 08:31:32,160 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/mcu/
+2025-12-18 08:31:32,161 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/boardmanager/
+2025-12-18 08:31:32,162 [WARN] ApiDb:259 - Overriding images path with different value:  => C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/mcufinder/images/
+2025-12-18 08:31:32,182 [INFO] ApiDb:250 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-18 08:31:32,186 [INFO] DbMcusAds:125 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-18 08:31:32,194 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/cs/
+2025-12-18 08:31:32,537 [INFO] RulesReader:64 - Compatibility file has been processed (317 Rules)
+2025-12-18 08:31:32,929 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/mcu/
+2025-12-18 08:31:32,930 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/boardmanager/
+2025-12-18 08:31:32,930 [INFO] ApiDb:261 - Set plugin images path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/mcufinder/images/
+2025-12-18 08:31:32,931 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 08:31:32,931 [INFO] ApiDb:250 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-18 08:31:32,931 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 08:31:32,931 [INFO] DbMcusAds:125 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-18 08:31:32,931 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 08:31:32,933 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 08:31:32,933 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/cs/
+2025-12-18 08:31:33,243 [INFO] MainPanel:274 - HeapMemory: 268435456
+2025-12-18 08:31:33,727 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/mcu/
+2025-12-18 08:31:33,730 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/boardmanager/
+2025-12-18 08:31:33,738 [INFO] ApiDb:261 - Set plugin images path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/mcufinder/images/
+2025-12-18 08:31:33,752 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 08:31:33,753 [INFO] ApiDb:250 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-18 08:31:33,753 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 08:31:33,753 [INFO] DbMcusAds:125 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-18 08:31:33,753 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 08:31:33,754 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 08:31:33,754 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/cs/
+2025-12-18 08:31:33,854 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659
+2025-12-18 08:31:33,858 [INFO] PluginManage:196 - Search for loadable plugins [exclusion list=, ]
+2025-12-18 08:31:33,861 [INFO] PluginManage:310 - Check plugin analytics
+2025-12-18 08:31:39,319 [INFO] AnalyticsPlugin:253 - Accepted Software Licenses: 
+2025-12-18 08:31:39,320 [INFO] AnalyticsPlugin:255 - Accepted CMSIS Pack Licenses: 
+2025-12-18 08:31:39,321 [INFO] AnalyticsPlugin:257 - Accepted Firmware Licenses: 
+2025-12-18 08:31:39,340 [INFO] PluginManage:359 - Loaded plugin analytics (category:tool,tabindex:-1)
+2025-12-18 08:31:39,340 [INFO] PluginManage:310 - Check plugin cadmodel
+2025-12-18 08:31:39,353 [INFO] CADModel:105 - Init CAD model plugin
+2025-12-18 08:31:39,353 [INFO] PluginManage:359 - Loaded plugin cadmodel (category:power,tabindex:5)
+2025-12-18 08:31:39,354 [INFO] PluginManage:310 - Check plugin clock
+2025-12-18 08:31:39,398 [INFO] PluginManage:359 - Loaded plugin clock (category:base,tabindex:2)
+2025-12-18 08:31:39,399 [INFO] PluginManage:310 - Check plugin ddr
+2025-12-18 08:31:39,406 [INFO] PluginManage:359 - Loaded plugin ddr (category:tool,tabindex:6)
+2025-12-18 08:31:39,406 [INFO] PluginManage:310 - Check plugin filemanager
+2025-12-18 08:31:39,761 [INFO] PluginManage:359 - Loaded plugin filemanager (category:base,tabindex:10)
+2025-12-18 08:31:39,762 [INFO] PluginManage:310 - Check plugin ipmanager
+2025-12-18 08:31:39,781 [INFO] PluginManage:359 - Loaded plugin ipmanager (category:base,tabindex:5)
+2025-12-18 08:31:39,782 [INFO] PluginManage:310 - Check plugin lpbam
+2025-12-18 08:31:39,801 [INFO] PluginManage:359 - Loaded plugin lpbam (category:base,tabindex:0)
+2025-12-18 08:31:39,801 [INFO] PluginManage:310 - Check plugin memorymap
+2025-12-18 08:31:39,833 [INFO] PluginManage:359 - Loaded plugin memorymap (category:base,tabindex:4)
+2025-12-18 08:31:39,834 [INFO] PluginManage:310 - Check plugin pinoutandconfiguration
+2025-12-18 08:31:39,858 [INFO] PluginManage:359 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2025-12-18 08:31:39,859 [INFO] PluginManage:310 - Check plugin pinoutconfig
+2025-12-18 08:31:39,994 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 08:31:40,133 [WARN] SupportedApi:132 - Cannot load RTOS API schema: s4s-elt-must-match.1: The content of 'definitions' must match (annotation?, (simpleType | complexType)?, (unique | key | keyref)*)). A problem was found starting at: attribute.
+2025-12-18 08:31:40,441 [INFO] PluginManage:359 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2025-12-18 08:31:40,442 [INFO] PluginManage:310 - Check plugin power
+2025-12-18 08:31:40,465 [INFO] PluginManage:359 - Loaded plugin power (category:power,tabindex:4)
+2025-12-18 08:31:40,465 [INFO] PluginManage:310 - Check plugin projectmanager
+2025-12-18 08:31:40,500 [INFO] PluginManage:359 - Loaded plugin projectmanager (category:projectmanager,tabindex:4)
+2025-12-18 08:31:40,500 [INFO] PluginManage:310 - Check plugin rif
+2025-12-18 08:31:40,518 [INFO] PluginManage:359 - Loaded plugin rif (category:base,tabindex:3)
+2025-12-18 08:31:40,519 [INFO] PluginManage:310 - Check plugin thirdparty
+2025-12-18 08:31:40,860 [INFO] PluginManage:359 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2025-12-18 08:31:40,861 [INFO] PluginManage:310 - Check plugin tools
+2025-12-18 08:31:40,866 [INFO] PluginManage:359 - Loaded plugin tools (category:base,tabindex:7)
+2025-12-18 08:31:40,867 [INFO] PluginManage:310 - Check plugin tutovideos
+2025-12-18 08:31:40,906 [WARN] IntegrityCheckThread:84 - waiting for thirdparty lock release [integrity check]
+2025-12-18 08:31:40,910 [INFO] IntegrityCheckThread:86 - entering critical section [integrity check]
+2025-12-18 08:31:40,913 [INFO] ThirdPartyUpdaterWithRetryManager:70 - Updater plugin not ready yet. [1/15]
+2025-12-18 08:31:41,531 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 08:31:41,676 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 08:31:41,808 [INFO] PluginManage:359 - Loaded plugin tutovideos (category:base,tabindex:-1)
+2025-12-18 08:31:41,808 [INFO] PluginManage:310 - Check plugin updater
+2025-12-18 08:31:42,274 [INFO] PluginManage:359 - Loaded plugin updater (category:base,tabindex:12)
+2025-12-18 08:31:42,275 [INFO] PluginManage:310 - Check plugin userauth
+2025-12-18 08:31:42,283 [INFO] UserAuth:118 - Init User Auth plugin
+2025-12-18 08:31:42,286 [INFO] PluginManage:359 - Loaded plugin userauth (category:base,tabindex:14)
+2025-12-18 08:31:42,288 [INFO] PluginManage:283 - PluginManage : Loaded plugins [18]
+2025-12-18 08:31:42,967 [INFO] PinOutPanel:1589 - setPackage(No Configuration,No Configuration)
+2025-12-18 08:31:43,202 [INFO] CADModel:165 - CPN selected for project level
+2025-12-18 08:31:43,203 [INFO] CADModel:114 - Register for checkConnection events
+2025-12-18 08:31:43,256 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,256 [INFO] PluginManager:220 - loadIPPluginJar : add adc
+2025-12-18 08:31:43,263 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,264 [INFO] PluginManager:220 - loadIPPluginJar : add aes
+2025-12-18 08:31:43,270 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,271 [INFO] PluginManager:220 - loadIPPluginJar : add can
+2025-12-18 08:31:43,275 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,275 [INFO] PluginManager:220 - loadIPPluginJar : add comp
+2025-12-18 08:31:43,282 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,283 [INFO] PluginManager:220 - loadIPPluginJar : add cryp
+2025-12-18 08:31:43,294 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,294 [INFO] PluginManager:220 - loadIPPluginJar : add ddr_ctrl_phy
+2025-12-18 08:31:43,301 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,301 [INFO] PluginManager:220 - loadIPPluginJar : add dfsdm
+2025-12-18 08:31:43,314 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,316 [INFO] PluginManager:220 - loadIPPluginJar : add dma
+2025-12-18 08:31:43,324 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,325 [INFO] PluginManager:220 - loadIPPluginJar : add dma3
+2025-12-18 08:31:43,349 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,350 [INFO] PluginManager:220 - loadIPPluginJar : add extmemmanager
+2025-12-18 08:31:43,354 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,355 [INFO] PluginManager:220 - loadIPPluginJar : add fatfs
+2025-12-18 08:31:43,367 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,367 [INFO] PluginManager:220 - loadIPPluginJar : add fmc
+2025-12-18 08:31:43,380 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,380 [INFO] PluginManager:220 - loadIPPluginJar : add freertos
+2025-12-18 08:31:43,384 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,384 [INFO] PluginManager:220 - loadIPPluginJar : add genericplugin
+2025-12-18 08:31:43,391 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,391 [INFO] PluginManager:220 - loadIPPluginJar : add gfxmmu
+2025-12-18 08:31:43,402 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,403 [INFO] PluginManager:220 - loadIPPluginJar : add gic
+2025-12-18 08:31:43,415 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,415 [INFO] PluginManager:220 - loadIPPluginJar : add gpio
+2025-12-18 08:31:43,424 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,424 [INFO] PluginManager:220 - loadIPPluginJar : add gtzc
+2025-12-18 08:31:43,431 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,432 [INFO] PluginManager:220 - loadIPPluginJar : add hash
+2025-12-18 08:31:43,439 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,439 [INFO] PluginManager:220 - loadIPPluginJar : add i2c
+2025-12-18 08:31:43,448 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,448 [INFO] PluginManager:220 - loadIPPluginJar : add i2s
+2025-12-18 08:31:43,457 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,457 [INFO] PluginManager:220 - loadIPPluginJar : add i3c
+2025-12-18 08:31:43,468 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,468 [INFO] PluginManager:220 - loadIPPluginJar : add ipddr
+2025-12-18 08:31:43,485 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,486 [INFO] PluginManager:220 - loadIPPluginJar : add linkedlist
+2025-12-18 08:31:43,493 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,494 [INFO] PluginManager:220 - loadIPPluginJar : add lorawan
+2025-12-18 08:31:43,498 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,498 [INFO] PluginManager:220 - loadIPPluginJar : add ltdc
+2025-12-18 08:31:43,512 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,513 [INFO] PluginManager:220 - loadIPPluginJar : add mdma
+2025-12-18 08:31:43,521 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,521 [INFO] PluginManager:220 - loadIPPluginJar : add nvic
+2025-12-18 08:31:43,529 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,529 [INFO] PluginManager:220 - loadIPPluginJar : add opamp
+2025-12-18 08:31:43,537 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,538 [INFO] PluginManager:220 - loadIPPluginJar : add openamp
+2025-12-18 08:31:43,546 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,546 [INFO] PluginManager:220 - loadIPPluginJar : add pdm2pcm
+2025-12-18 08:31:43,562 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,568 [INFO] PluginManager:220 - loadIPPluginJar : add plateformsettings
+2025-12-18 08:31:43,573 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,573 [INFO] PluginManager:220 - loadIPPluginJar : add quadspi
+2025-12-18 08:31:43,578 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,580 [INFO] PluginManager:220 - loadIPPluginJar : add radio
+2025-12-18 08:31:43,589 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,590 [INFO] PluginManager:220 - loadIPPluginJar : add resmgrutility
+2025-12-18 08:31:43,598 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,599 [INFO] PluginManager:220 - loadIPPluginJar : add sai
+2025-12-18 08:31:43,606 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,606 [INFO] PluginManager:220 - loadIPPluginJar : add spi
+2025-12-18 08:31:43,622 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,622 [INFO] PluginManager:220 - loadIPPluginJar : add stm32_wpan
+2025-12-18 08:31:43,627 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,627 [INFO] PluginManager:220 - loadIPPluginJar : add tim
+2025-12-18 08:31:43,636 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,636 [INFO] PluginManager:220 - loadIPPluginJar : add touchsensing
+2025-12-18 08:31:43,642 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,642 [INFO] PluginManager:220 - loadIPPluginJar : add tracer_emb
+2025-12-18 08:31:43,647 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,648 [INFO] PluginManager:220 - loadIPPluginJar : add ts
+2025-12-18 08:31:43,653 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,653 [INFO] PluginManager:220 - loadIPPluginJar : add tsc
+2025-12-18 08:31:43,658 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,658 [INFO] PluginManager:220 - loadIPPluginJar : add ucpd
+2025-12-18 08:31:43,671 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,671 [INFO] PluginManager:220 - loadIPPluginJar : add usart
+2025-12-18 08:31:43,679 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:31:43,680 [INFO] PluginManager:220 - loadIPPluginJar : add usbx
+2025-12-18 08:31:43,924 [INFO] ThirdPartyUpdaterWithRetryManager:70 - Updater plugin not ready yet. [2/15]
+2025-12-18 08:31:43,958 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 08:31:44,054 [INFO] RulesReader:64 - Compatibility file has been processed (317 Rules)
+2025-12-18 08:31:44,081 [INFO] RulesReader:64 - Compatibility file has been processed (317 Rules)
+2025-12-18 08:31:44,095 [INFO] CADModel:165 - CPN selected for project level
+2025-12-18 08:31:44,095 [INFO] CADModel:114 - Register for checkConnection events
+2025-12-18 08:31:44,095 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 08:31:44,095 [ERROR] CADModel:125 - Updater not yet initialized, retry later 
+2025-12-18 08:31:44,426 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 08:31:44,430 [INFO] CADModel:165 - CPN selected for project level
+2025-12-18 08:31:44,430 [INFO] CADModel:114 - Register for checkConnection events
+2025-12-18 08:31:44,431 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 08:31:44,431 [ERROR] CADModel:125 - Updater not yet initialized, retry later 
+2025-12-18 08:31:44,437 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 08:31:44,779 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 08:31:44,787 [INFO] DbMcusAds:53 - JSON generation date=Tue Dec 16 04:41:46 IST 2025 (1765840306612)
+2025-12-18 08:31:44,787 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 08:31:44,864 [WARN] DetailPanel:346 - Failed to get advertising image, set to default
+2025-12-18 08:31:45,038 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 08:31:45,043 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 08:31:45,044 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 08:31:45,044 [WARN] DetailPanel:346 - Failed to get advertising image, set to default
+2025-12-18 08:31:45,047 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 08:31:45,193 [ERROR] Updater:1198 - MainUpdater not yet initialized. External WinMGr cannot be set.
+2025-12-18 08:31:45,196 [INFO] Updater:1134 - Updater Version found : 6.15.0
+2025-12-18 08:31:45,233 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659
+2025-12-18 08:31:46,004 [INFO] MainUpdater:2872 - connection check result : 22
+2025-12-18 08:31:46,006 [INFO] MainUpdater:289 - Updater Check For Update Now.
+2025-12-18 08:31:46,007 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.150
+2025-12-18 08:31:46,032 [INFO] McuFinderGlobals:63 - Set McuFinder mode to 2 (CubeIDE integrated)
+2025-12-18 08:31:46,036 [INFO] UserAuth:487 - Internet connection configuration mode: 2
+2025-12-18 08:31:46,047 [INFO] UserAuth:487 - Internet connection configuration mode: 2
+2025-12-18 08:31:46,470 [INFO] CheckServerUpdateThread:120 - End of CheckServer Thread
+2025-12-18 08:31:47,470 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENVWB1.1.4.0
+2025-12-18 08:31:47,490 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-ATR-ASTRA1.2.0.2
+2025-12-18 08:31:47,510 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SMBUS.2.1.0
+2025-12-18 08:31:47,524 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ST60.1.0.0
+2025-12-18 08:31:47,609 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F7.1.1.0
+2025-12-18 08:31:47,627 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENV1.5.1.0
+2025-12-18 08:31:47,651 [WARN] PackLoader:240 - Cannot read IP mode file for WES.I-CUBE-Cesium.1.4.0
+2025-12-18 08:31:47,727 [WARN] PackLoader:240 - Cannot read IP mode file for Infineon.AIROC-Wi-Fi-Bluetooth-STM32.1.7.1
+2025-12-18 08:31:47,798 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7.3.4.0
+2025-12-18 08:31:47,816 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DISPLAY.3.0.0
+2025-12-18 08:31:47,839 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC10.1.0.0
+2025-12-18 08:31:47,851 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ST60.1.1.0
+2025-12-18 08:31:47,862 [WARN] PackLoader:240 - Cannot read IP mode file for emotas.I-CUBE-CANOPEN.1.3.0
+2025-12-18 08:31:47,873 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-GNSS1.7.1.0
+2025-12-18 08:31:47,890 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-STBOX1.2.1.0
+2025-12-18 08:31:47,901 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-SMARTAG2.1.2.0
+2025-12-18 08:31:47,908 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-FLIGHT1.5.1.0
+2025-12-18 08:31:47,927 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-12-18 08:31:47,929 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-12-18 08:31:47,932 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-12-18 08:31:47,935 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-12-18 08:31:47,939 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-12-18 08:31:47,945 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WL.2.0.0
+2025-12-18 08:31:47,955 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENV1.5.0.0
+2025-12-18 08:31:48,006 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7RS.1.2.0
+2025-12-18 08:31:48,022 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE2.3.3.0
+2025-12-18 08:31:48,066 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC9.1.0.0
+2025-12-18 08:31:48,079 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfSSL.5.8.2
+2025-12-18 08:31:48,089 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE1.7.1.0
+2025-12-18 08:31:48,097 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfMQTT.1.19.2
+2025-12-18 08:31:48,110 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-FREERTOS.1.4.0
+2025-12-18 08:31:48,119 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-EEPRMA1.5.2.0
+2025-12-18 08:31:48,130 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ST67W61.1.1.0
+2025-12-18 08:31:48,250 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.12.0.0
+2025-12-18 08:31:48,417 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G0.1.1.0
+2025-12-18 08:31:48,430 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SAFEA1.1.2.2
+2025-12-18 08:31:48,442 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC4.3.0.0
+2025-12-18 08:31:48,459 [WARN] PackLoader:240 - Cannot read IP mode file for EmbeddedOffice.I-CUBE-FS-RTOS.1.0.1
+2025-12-18 08:31:48,470 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-WB05N.2.0.0
+2025-12-18 08:31:48,478 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfTPM.3.8.0
+2025-12-18 08:31:48,489 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TCPP.4.2.0
+2025-12-18 08:31:48,502 [WARN] PackLoader:240 - Cannot read IP mode file for RealThread.X-CUBE-RT-Thread_Nano.4.1.1
+2025-12-18 08:31:48,511 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-ATR-SIGFOX1.3.2.0
+2025-12-18 08:31:48,524 [WARN] PackLoader:240 - Cannot read IP mode file for ITTIA_DB.I-CUBE-ITTIADB.8.9.0
+2025-12-18 08:31:48,535 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ST67W61.1.0.0
+2025-12-18 08:31:48,544 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.10.2.0
+2025-12-18 08:31:48,636 [WARN] PackLoader:240 - Cannot read IP mode file for SEGGER.I-CUBE-embOS.1.3.1
+2025-12-18 08:31:48,742 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALGOBUILD.1.4.0
+2025-12-18 08:31:48,865 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.11.3.0
+2025-12-18 08:31:49,266 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-PM33A1.1.0.0
+2025-12-18 08:31:49,295 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F4.1.1.0
+2025-12-18 08:31:49,306 [WARN] PackLoader:240 - Cannot read IP mode file for Avnet-IotConnect.X-CUBE-IoTC-DA16k-PMOD.1.0.0
+2025-12-18 08:31:49,315 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ISPU.2.1.0
+2025-12-18 08:31:49,340 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-IPS.3.2.0
+2025-12-18 08:31:49,365 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC12.1.0.0
+2025-12-18 08:31:49,391 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L5.2.0.0
+2025-12-18 08:31:49,413 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC6.3.1.0
+2025-12-18 08:31:49,426 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-FREERTOS.1.3.1
+2025-12-18 08:31:49,435 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.26.0
+2025-12-18 08:31:49,444 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-STAIOTCFT.1.0.0
+2025-12-18 08:31:49,456 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DPower.1.3.0
+2025-12-18 08:31:49,483 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : LAN8742 Phy interface Condition cause : null
+2025-12-18 08:31:49,485 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L4.2.0.0
+2025-12-18 08:31:49,487 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2025-12-18 08:31:49,488 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2025-12-18 08:31:49,489 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2025-12-18 08:31:49,499 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0
+2025-12-18 08:31:49,517 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLEMGR.4.1.0
+2025-12-18 08:31:49,543 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 08:31:49,543 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 08:31:49,546 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0
+2025-12-18 08:31:49,546 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 08:31:49,546 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 08:31:49,547 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 08:31:49,547 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 08:31:49,547 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 08:31:49,553 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-GNSS1.7.0.1
+2025-12-18 08:31:49,558 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.25.0
+2025-12-18 08:31:49,563 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : Cortex-A Device cause : null
+2025-12-18 08:31:49,605 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : Cortex-A Device cause : null
+2025-12-18 08:31:49,605 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : Cortex-A Device cause : null
+2025-12-18 08:31:49,606 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : Cortex-A Device cause : null
+2025-12-18 08:31:49,623 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SUBG2.5.0.0
+2025-12-18 08:31:49,663 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7RS.1.1.0
+2025-12-18 08:31:49,674 [WARN] PackLoader:240 - Cannot read IP mode file for Cesanta.I-CUBE-Mongoose.7.13.0
+2025-12-18 08:31:49,691 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G4.2.0.0
+2025-12-18 08:31:49,699 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfSSH.1.4.20
+2025-12-18 08:31:49,707 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC7.2.0.0
+2025-12-18 08:31:49,732 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-IPS.3.1.0
+2025-12-18 08:31:49,748 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALS.1.0.2
+2025-12-18 08:31:49,762 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-STSE01.1.0.0
+2025-12-18 08:31:49,783 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOF1.3.4.3
+2025-12-18 08:31:49,804 [INFO] ThirdParty:978 - Integrity check success = true
+2025-12-18 08:31:49,804 [INFO] IntegrityCheckThread:100 - exiting critical section [integrity check]
+2025-12-18 08:31:49,804 [INFO] IntegrityCheckThread:103 - End integrity checks thread
+2025-12-18 08:32:25,626 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 08:32:25,643 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 08:32:25,668 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 08:56:48,471 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 08:56:48,526 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 08:56:48,607 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 08:57:45,830 [INFO] Activator:176 - 
+
+
+2025-12-18 08:57:45,833 [INFO] Activator:177 - !SESSION log4j initialized
+2025-12-18 08:57:54,659 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2025-12-18 08:58:01,372 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659
+2025-12-18 08:58:01,395 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 08:58:01,408 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/mcu/
+2025-12-18 08:58:01,408 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/boardmanager/
+2025-12-18 08:58:01,409 [WARN] ApiDb:259 - Overriding images path with different value:  => C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/mcufinder/images/
+2025-12-18 08:58:01,421 [INFO] ApiDb:250 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-18 08:58:01,424 [INFO] DbMcusAds:125 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-18 08:58:01,428 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/cs/
+2025-12-18 08:58:01,619 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 08:58:01,678 [INFO] RulesReader:64 - Compatibility file has been processed (317 Rules)
+2025-12-18 08:58:01,733 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 08:58:01,813 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/mcu/
+2025-12-18 08:58:01,814 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/boardmanager/
+2025-12-18 08:58:01,815 [INFO] ApiDb:261 - Set plugin images path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/mcufinder/images/
+2025-12-18 08:58:01,815 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 08:58:01,815 [INFO] ApiDb:250 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-18 08:58:01,815 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 08:58:01,816 [INFO] DbMcusAds:125 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-18 08:58:01,816 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 08:58:01,816 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 08:58:01,816 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/cs/
+2025-12-18 08:58:01,957 [INFO] MainPanel:274 - HeapMemory: 268435456
+2025-12-18 08:58:02,098 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/mcu/
+2025-12-18 08:58:02,098 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/boardmanager/
+2025-12-18 08:58:02,098 [INFO] ApiDb:261 - Set plugin images path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/mcufinder/images/
+2025-12-18 08:58:02,099 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 08:58:02,099 [INFO] ApiDb:250 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-18 08:58:02,100 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 08:58:02,100 [INFO] DbMcusAds:125 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-18 08:58:02,100 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 08:58:02,100 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 08:58:02,100 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/cs/
+2025-12-18 08:58:02,132 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659
+2025-12-18 08:58:02,135 [INFO] PluginManage:196 - Search for loadable plugins [exclusion list=, ]
+2025-12-18 08:58:02,137 [INFO] PluginManage:310 - Check plugin analytics
+2025-12-18 08:58:07,283 [INFO] AnalyticsPlugin:253 - Accepted Software Licenses: 
+2025-12-18 08:58:07,284 [INFO] AnalyticsPlugin:255 - Accepted CMSIS Pack Licenses: 
+2025-12-18 08:58:07,284 [INFO] AnalyticsPlugin:257 - Accepted Firmware Licenses: 
+2025-12-18 08:58:07,285 [INFO] PluginManage:359 - Loaded plugin analytics (category:tool,tabindex:-1)
+2025-12-18 08:58:07,285 [INFO] PluginManage:310 - Check plugin cadmodel
+2025-12-18 08:58:07,296 [INFO] CADModel:105 - Init CAD model plugin
+2025-12-18 08:58:07,296 [INFO] PluginManage:359 - Loaded plugin cadmodel (category:power,tabindex:5)
+2025-12-18 08:58:07,296 [INFO] PluginManage:310 - Check plugin clock
+2025-12-18 08:58:07,311 [INFO] PluginManage:359 - Loaded plugin clock (category:base,tabindex:2)
+2025-12-18 08:58:07,311 [INFO] PluginManage:310 - Check plugin ddr
+2025-12-18 08:58:07,315 [INFO] PluginManage:359 - Loaded plugin ddr (category:tool,tabindex:6)
+2025-12-18 08:58:07,315 [INFO] PluginManage:310 - Check plugin filemanager
+2025-12-18 08:58:07,398 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 08:58:07,462 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 08:58:07,606 [INFO] PluginManage:359 - Loaded plugin filemanager (category:base,tabindex:10)
+2025-12-18 08:58:07,606 [INFO] PluginManage:310 - Check plugin ipmanager
+2025-12-18 08:58:07,621 [INFO] PluginManage:359 - Loaded plugin ipmanager (category:base,tabindex:5)
+2025-12-18 08:58:07,622 [INFO] PluginManage:310 - Check plugin lpbam
+2025-12-18 08:58:07,638 [INFO] PluginManage:359 - Loaded plugin lpbam (category:base,tabindex:0)
+2025-12-18 08:58:07,640 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 08:58:07,641 [INFO] PluginManage:310 - Check plugin memorymap
+2025-12-18 08:58:07,661 [INFO] PluginManage:359 - Loaded plugin memorymap (category:base,tabindex:4)
+2025-12-18 08:58:07,662 [INFO] PluginManage:310 - Check plugin pinoutandconfiguration
+2025-12-18 08:58:07,676 [INFO] PluginManage:359 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2025-12-18 08:58:07,677 [INFO] PluginManage:310 - Check plugin pinoutconfig
+2025-12-18 08:58:07,870 [WARN] SupportedApi:132 - Cannot load RTOS API schema: s4s-elt-must-match.1: The content of 'definitions' must match (annotation?, (simpleType | complexType)?, (unique | key | keyref)*)). A problem was found starting at: attribute.
+2025-12-18 08:58:08,155 [INFO] PluginManage:359 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2025-12-18 08:58:08,155 [INFO] PluginManage:310 - Check plugin power
+2025-12-18 08:58:08,180 [INFO] PluginManage:359 - Loaded plugin power (category:power,tabindex:4)
+2025-12-18 08:58:08,180 [INFO] PluginManage:310 - Check plugin projectmanager
+2025-12-18 08:58:08,245 [INFO] PluginManage:359 - Loaded plugin projectmanager (category:projectmanager,tabindex:4)
+2025-12-18 08:58:08,246 [INFO] PluginManage:310 - Check plugin rif
+2025-12-18 08:58:08,271 [INFO] PluginManage:359 - Loaded plugin rif (category:base,tabindex:3)
+2025-12-18 08:58:08,271 [INFO] PluginManage:310 - Check plugin thirdparty
+2025-12-18 08:58:08,593 [INFO] PluginManage:359 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2025-12-18 08:58:08,594 [INFO] PluginManage:310 - Check plugin tools
+2025-12-18 08:58:08,595 [WARN] IntegrityCheckThread:84 - waiting for thirdparty lock release [integrity check]
+2025-12-18 08:58:08,597 [INFO] IntegrityCheckThread:86 - entering critical section [integrity check]
+2025-12-18 08:58:08,597 [INFO] ThirdPartyUpdaterWithRetryManager:70 - Updater plugin not ready yet. [1/15]
+2025-12-18 08:58:08,603 [INFO] PluginManage:359 - Loaded plugin tools (category:base,tabindex:7)
+2025-12-18 08:58:08,603 [INFO] PluginManage:310 - Check plugin tutovideos
+2025-12-18 08:58:08,991 [INFO] PluginManage:359 - Loaded plugin tutovideos (category:base,tabindex:-1)
+2025-12-18 08:58:08,991 [INFO] PluginManage:310 - Check plugin updater
+2025-12-18 08:58:09,080 [INFO] PluginManage:359 - Loaded plugin updater (category:base,tabindex:12)
+2025-12-18 08:58:09,080 [INFO] PluginManage:310 - Check plugin userauth
+2025-12-18 08:58:09,093 [INFO] UserAuth:118 - Init User Auth plugin
+2025-12-18 08:58:09,094 [INFO] PluginManage:359 - Loaded plugin userauth (category:base,tabindex:14)
+2025-12-18 08:58:09,095 [INFO] PluginManage:283 - PluginManage : Loaded plugins [18]
+2025-12-18 08:58:09,495 [INFO] PinOutPanel:1589 - setPackage(No Configuration,No Configuration)
+2025-12-18 08:58:09,683 [INFO] CADModel:165 - CPN selected for project level
+2025-12-18 08:58:09,684 [INFO] CADModel:114 - Register for checkConnection events
+2025-12-18 08:58:09,713 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,714 [INFO] PluginManager:220 - loadIPPluginJar : add adc
+2025-12-18 08:58:09,719 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,720 [INFO] PluginManager:220 - loadIPPluginJar : add aes
+2025-12-18 08:58:09,727 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,727 [INFO] PluginManager:220 - loadIPPluginJar : add can
+2025-12-18 08:58:09,731 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,731 [INFO] PluginManager:220 - loadIPPluginJar : add comp
+2025-12-18 08:58:09,737 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,737 [INFO] PluginManager:220 - loadIPPluginJar : add cryp
+2025-12-18 08:58:09,743 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,743 [INFO] PluginManager:220 - loadIPPluginJar : add ddr_ctrl_phy
+2025-12-18 08:58:09,747 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,748 [INFO] PluginManager:220 - loadIPPluginJar : add dfsdm
+2025-12-18 08:58:09,759 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,760 [INFO] PluginManager:220 - loadIPPluginJar : add dma
+2025-12-18 08:58:09,766 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,767 [INFO] PluginManager:220 - loadIPPluginJar : add dma3
+2025-12-18 08:58:09,773 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,773 [INFO] PluginManager:220 - loadIPPluginJar : add extmemmanager
+2025-12-18 08:58:09,776 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,777 [INFO] PluginManager:220 - loadIPPluginJar : add fatfs
+2025-12-18 08:58:09,785 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,786 [INFO] PluginManager:220 - loadIPPluginJar : add fmc
+2025-12-18 08:58:09,797 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,797 [INFO] PluginManager:220 - loadIPPluginJar : add freertos
+2025-12-18 08:58:09,801 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,801 [INFO] PluginManager:220 - loadIPPluginJar : add genericplugin
+2025-12-18 08:58:09,806 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,806 [INFO] PluginManager:220 - loadIPPluginJar : add gfxmmu
+2025-12-18 08:58:09,815 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,816 [INFO] PluginManager:220 - loadIPPluginJar : add gic
+2025-12-18 08:58:09,825 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,826 [INFO] PluginManager:220 - loadIPPluginJar : add gpio
+2025-12-18 08:58:09,832 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,833 [INFO] PluginManager:220 - loadIPPluginJar : add gtzc
+2025-12-18 08:58:09,838 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,839 [INFO] PluginManager:220 - loadIPPluginJar : add hash
+2025-12-18 08:58:09,845 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,845 [INFO] PluginManager:220 - loadIPPluginJar : add i2c
+2025-12-18 08:58:09,851 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,852 [INFO] PluginManager:220 - loadIPPluginJar : add i2s
+2025-12-18 08:58:09,859 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,859 [INFO] PluginManager:220 - loadIPPluginJar : add i3c
+2025-12-18 08:58:09,867 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,868 [INFO] PluginManager:220 - loadIPPluginJar : add ipddr
+2025-12-18 08:58:09,883 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,883 [INFO] PluginManager:220 - loadIPPluginJar : add linkedlist
+2025-12-18 08:58:09,889 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,890 [INFO] PluginManager:220 - loadIPPluginJar : add lorawan
+2025-12-18 08:58:09,894 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,894 [INFO] PluginManager:220 - loadIPPluginJar : add ltdc
+2025-12-18 08:58:09,903 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,904 [INFO] PluginManager:220 - loadIPPluginJar : add mdma
+2025-12-18 08:58:09,910 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,910 [INFO] PluginManager:220 - loadIPPluginJar : add nvic
+2025-12-18 08:58:09,916 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,916 [INFO] PluginManager:220 - loadIPPluginJar : add opamp
+2025-12-18 08:58:09,921 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,922 [INFO] PluginManager:220 - loadIPPluginJar : add openamp
+2025-12-18 08:58:09,928 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,928 [INFO] PluginManager:220 - loadIPPluginJar : add pdm2pcm
+2025-12-18 08:58:09,939 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,945 [INFO] PluginManager:220 - loadIPPluginJar : add plateformsettings
+2025-12-18 08:58:09,947 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,948 [INFO] PluginManager:220 - loadIPPluginJar : add quadspi
+2025-12-18 08:58:09,951 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,953 [INFO] PluginManager:220 - loadIPPluginJar : add radio
+2025-12-18 08:58:09,960 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,960 [INFO] PluginManager:220 - loadIPPluginJar : add resmgrutility
+2025-12-18 08:58:09,965 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,966 [INFO] PluginManager:220 - loadIPPluginJar : add sai
+2025-12-18 08:58:09,970 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,970 [INFO] PluginManager:220 - loadIPPluginJar : add spi
+2025-12-18 08:58:09,983 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,983 [INFO] PluginManager:220 - loadIPPluginJar : add stm32_wpan
+2025-12-18 08:58:09,987 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,987 [INFO] PluginManager:220 - loadIPPluginJar : add tim
+2025-12-18 08:58:09,992 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,993 [INFO] PluginManager:220 - loadIPPluginJar : add touchsensing
+2025-12-18 08:58:09,997 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:09,997 [INFO] PluginManager:220 - loadIPPluginJar : add tracer_emb
+2025-12-18 08:58:10,000 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:10,001 [INFO] PluginManager:220 - loadIPPluginJar : add ts
+2025-12-18 08:58:10,003 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:10,004 [INFO] PluginManager:220 - loadIPPluginJar : add tsc
+2025-12-18 08:58:10,009 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:10,009 [INFO] PluginManager:220 - loadIPPluginJar : add ucpd
+2025-12-18 08:58:10,015 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:10,015 [INFO] PluginManager:220 - loadIPPluginJar : add usart
+2025-12-18 08:58:10,025 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 08:58:10,026 [INFO] PluginManager:220 - loadIPPluginJar : add usbx
+2025-12-18 08:58:10,506 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 08:58:10,573 [INFO] RulesReader:64 - Compatibility file has been processed (317 Rules)
+2025-12-18 08:58:10,598 [INFO] RulesReader:64 - Compatibility file has been processed (317 Rules)
+2025-12-18 08:58:10,610 [INFO] CADModel:165 - CPN selected for project level
+2025-12-18 08:58:10,610 [INFO] CADModel:114 - Register for checkConnection events
+2025-12-18 08:58:10,610 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 08:58:10,610 [ERROR] CADModel:125 - Updater not yet initialized, retry later 
+2025-12-18 08:58:10,935 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 08:58:10,949 [INFO] CADModel:165 - CPN selected for project level
+2025-12-18 08:58:10,949 [INFO] CADModel:114 - Register for checkConnection events
+2025-12-18 08:58:10,949 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 08:58:10,949 [ERROR] CADModel:125 - Updater not yet initialized, retry later 
+2025-12-18 08:58:10,961 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 08:58:11,203 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 08:58:11,212 [INFO] DbMcusAds:53 - JSON generation date=Tue Dec 16 04:41:46 IST 2025 (1765840306612)
+2025-12-18 08:58:11,213 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 08:58:11,276 [WARN] DetailPanel:346 - Failed to get advertising image, set to default
+2025-12-18 08:58:11,460 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 08:58:11,466 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 08:58:11,466 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 08:58:11,466 [WARN] DetailPanel:346 - Failed to get advertising image, set to default
+2025-12-18 08:58:11,470 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 08:58:11,622 [INFO] ThirdPartyUpdaterWithRetryManager:70 - Updater plugin not ready yet. [2/15]
+2025-12-18 08:58:11,664 [ERROR] Updater:1198 - MainUpdater not yet initialized. External WinMGr cannot be set.
+2025-12-18 08:58:11,667 [INFO] Updater:1134 - Updater Version found : 6.15.0
+2025-12-18 08:58:11,698 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659
+2025-12-18 08:58:12,154 [INFO] MainUpdater:2872 - connection check result : 22
+2025-12-18 08:58:12,156 [INFO] MainUpdater:289 - Updater Check For Update Now.
+2025-12-18 08:58:12,156 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.150
+2025-12-18 08:58:12,170 [INFO] McuFinderGlobals:63 - Set McuFinder mode to 2 (CubeIDE integrated)
+2025-12-18 08:58:12,171 [INFO] UserAuth:487 - Internet connection configuration mode: 2
+2025-12-18 08:58:12,179 [INFO] UserAuth:487 - Internet connection configuration mode: 2
+2025-12-18 08:58:12,605 [INFO] CheckServerUpdateThread:120 - End of CheckServer Thread
+2025-12-18 08:58:15,713 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENVWB1.1.4.0
+2025-12-18 08:58:15,740 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-ATR-ASTRA1.2.0.2
+2025-12-18 08:58:15,765 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SMBUS.2.1.0
+2025-12-18 08:58:15,781 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ST60.1.0.0
+2025-12-18 08:58:15,901 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F7.1.1.0
+2025-12-18 08:58:15,962 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENV1.5.1.0
+2025-12-18 08:58:16,028 [WARN] PackLoader:240 - Cannot read IP mode file for WES.I-CUBE-Cesium.1.4.0
+2025-12-18 08:58:16,125 [WARN] PackLoader:240 - Cannot read IP mode file for Infineon.AIROC-Wi-Fi-Bluetooth-STM32.1.7.1
+2025-12-18 08:58:16,188 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7.3.4.0
+2025-12-18 08:58:16,211 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DISPLAY.3.0.0
+2025-12-18 08:58:16,235 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC10.1.0.0
+2025-12-18 08:58:16,247 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ST60.1.1.0
+2025-12-18 08:58:16,347 [WARN] PackLoader:240 - Cannot read IP mode file for emotas.I-CUBE-CANOPEN.1.3.0
+2025-12-18 08:58:16,361 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-GNSS1.7.1.0
+2025-12-18 08:58:16,385 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-STBOX1.2.1.0
+2025-12-18 08:58:16,411 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-SMARTAG2.1.2.0
+2025-12-18 08:58:16,427 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-FLIGHT1.5.1.0
+2025-12-18 08:58:16,500 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-12-18 08:58:16,504 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-12-18 08:58:16,517 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-12-18 08:58:16,533 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-12-18 08:58:16,536 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-12-18 08:58:16,551 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WL.2.0.0
+2025-12-18 08:58:16,566 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENV1.5.0.0
+2025-12-18 08:58:16,679 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7RS.1.2.0
+2025-12-18 08:58:16,766 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE2.3.3.0
+2025-12-18 08:58:16,859 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC9.1.0.0
+2025-12-18 08:58:16,884 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfSSL.5.8.2
+2025-12-18 08:58:16,894 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE1.7.1.0
+2025-12-18 08:58:16,901 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfMQTT.1.19.2
+2025-12-18 08:58:16,912 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-FREERTOS.1.4.0
+2025-12-18 08:58:16,927 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-EEPRMA1.5.2.0
+2025-12-18 08:58:16,943 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ST67W61.1.1.0
+2025-12-18 08:58:17,052 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.12.0.0
+2025-12-18 08:58:17,281 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G0.1.1.0
+2025-12-18 08:58:17,295 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SAFEA1.1.2.2
+2025-12-18 08:58:17,303 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC4.3.0.0
+2025-12-18 08:58:17,320 [WARN] PackLoader:240 - Cannot read IP mode file for EmbeddedOffice.I-CUBE-FS-RTOS.1.0.1
+2025-12-18 08:58:17,333 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-WB05N.2.0.0
+2025-12-18 08:58:17,340 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfTPM.3.8.0
+2025-12-18 08:58:17,352 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TCPP.4.2.0
+2025-12-18 08:58:17,364 [WARN] PackLoader:240 - Cannot read IP mode file for RealThread.X-CUBE-RT-Thread_Nano.4.1.1
+2025-12-18 08:58:17,372 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-ATR-SIGFOX1.3.2.0
+2025-12-18 08:58:17,386 [WARN] PackLoader:240 - Cannot read IP mode file for ITTIA_DB.I-CUBE-ITTIADB.8.9.0
+2025-12-18 08:58:17,398 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ST67W61.1.0.0
+2025-12-18 08:58:17,409 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.10.2.0
+2025-12-18 08:58:17,474 [WARN] PackLoader:240 - Cannot read IP mode file for SEGGER.I-CUBE-embOS.1.3.1
+2025-12-18 08:58:17,571 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALGOBUILD.1.4.0
+2025-12-18 08:58:17,711 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.11.3.0
+2025-12-18 08:58:17,934 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-PM33A1.1.0.0
+2025-12-18 08:58:17,963 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F4.1.1.0
+2025-12-18 08:58:17,971 [WARN] PackLoader:240 - Cannot read IP mode file for Avnet-IotConnect.X-CUBE-IoTC-DA16k-PMOD.1.0.0
+2025-12-18 08:58:17,979 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ISPU.2.1.0
+2025-12-18 08:58:18,001 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-IPS.3.2.0
+2025-12-18 08:58:18,021 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC12.1.0.0
+2025-12-18 08:58:18,061 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L5.2.0.0
+2025-12-18 08:58:18,111 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC6.3.1.0
+2025-12-18 08:58:18,122 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-FREERTOS.1.3.1
+2025-12-18 08:58:18,130 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.26.0
+2025-12-18 08:58:18,140 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-STAIOTCFT.1.0.0
+2025-12-18 08:58:18,149 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DPower.1.3.0
+2025-12-18 08:58:18,199 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : LAN8742 Phy interface Condition cause : null
+2025-12-18 08:58:18,200 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L4.2.0.0
+2025-12-18 08:58:18,203 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2025-12-18 08:58:18,203 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2025-12-18 08:58:18,205 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2025-12-18 08:58:18,221 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0
+2025-12-18 08:58:18,242 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLEMGR.4.1.0
+2025-12-18 08:58:18,273 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 08:58:18,273 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 08:58:18,277 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0
+2025-12-18 08:58:18,279 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 08:58:18,279 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 08:58:18,280 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 08:58:18,280 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 08:58:18,293 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 08:58:18,306 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-GNSS1.7.0.1
+2025-12-18 08:58:18,312 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.25.0
+2025-12-18 08:58:18,320 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : Cortex-A Device cause : null
+2025-12-18 08:58:18,334 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : Cortex-A Device cause : null
+2025-12-18 08:58:18,335 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : Cortex-A Device cause : null
+2025-12-18 08:58:18,335 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : Cortex-A Device cause : null
+2025-12-18 08:58:18,354 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SUBG2.5.0.0
+2025-12-18 08:58:18,396 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7RS.1.1.0
+2025-12-18 08:58:18,493 [WARN] PackLoader:240 - Cannot read IP mode file for Cesanta.I-CUBE-Mongoose.7.13.0
+2025-12-18 08:58:18,528 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G4.2.0.0
+2025-12-18 08:58:18,543 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfSSH.1.4.20
+2025-12-18 08:58:18,558 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC7.2.0.0
+2025-12-18 08:58:18,587 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-IPS.3.1.0
+2025-12-18 08:58:18,627 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALS.1.0.2
+2025-12-18 08:58:18,652 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-STSE01.1.0.0
+2025-12-18 08:58:18,692 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOF1.3.4.3
+2025-12-18 08:58:18,719 [INFO] ThirdParty:978 - Integrity check success = true
+2025-12-18 08:58:18,719 [INFO] IntegrityCheckThread:100 - exiting critical section [integrity check]
+2025-12-18 08:58:18,719 [INFO] IntegrityCheckThread:103 - End integrity checks thread
+2025-12-18 09:06:46,456 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:06:46,500 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:06:46,570 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:07:14,428 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:07:14,461 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:07:14,498 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:08:37,491 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:08:37,561 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:08:37,643 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:09:50,498 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:09:50,540 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:09:50,556 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:11:24,246 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:11:24,335 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:11:24,365 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:12:43,833 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:12:43,898 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:12:44,070 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:14:30,386 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:14:30,452 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:14:30,471 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:17:38,515 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:17:38,548 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:17:38,573 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:17:57,131 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:17:57,146 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:17:57,171 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:19:18,755 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:19:18,776 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:19:18,806 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:19:38,306 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:19:38,324 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:19:38,345 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:32:01,137 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:32:01,185 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:32:01,223 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:35:11,462 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:35:11,486 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:35:11,581 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:36:58,899 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:36:58,945 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:36:59,007 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:38:50,810 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:38:50,830 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:38:50,861 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:39:24,196 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:39:24,231 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:39:24,278 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:40:56,749 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:40:56,770 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:40:56,794 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:41:25,344 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:41:25,396 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:41:25,475 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:47:01,299 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:47:01,338 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:47:01,370 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:51:05,912 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:51:06,068 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:51:06,143 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:51:46,767 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:51:46,819 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:51:46,892 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:53:54,656 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:53:54,810 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:53:54,964 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:54:16,672 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:54:16,843 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:54:17,054 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:57:08,599 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:57:08,650 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:57:08,695 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:57:27,156 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:57:27,174 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:57:27,191 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:58:28,599 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:58:28,629 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:58:28,672 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:58:53,450 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:58:53,482 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:58:53,510 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:59:16,007 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:59:16,023 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 09:59:16,035 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:06:58,006 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:06:58,044 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:06:58,086 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:06:58,299 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:06:58,319 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:06:58,349 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:12:50,895 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:12:50,916 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:12:50,967 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:12:54,124 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:12:54,146 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:12:54,170 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:14:46,758 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:14:46,773 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:14:46,792 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:14:47,633 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:14:47,657 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:14:47,678 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:16:44,027 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:16:44,072 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:16:44,096 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:16:46,483 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:16:46,515 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:16:46,561 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:17:58,708 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:17:59,755 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:17:59,942 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:18:01,234 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:18:01,278 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:18:01,421 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:20:52,042 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:20:52,104 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:20:52,159 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:20:53,306 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:20:53,390 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:20:53,470 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:22:19,904 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:22:19,931 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:22:20,021 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:22:23,272 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:22:23,374 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:22:23,456 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:23:58,311 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:23:58,377 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:23:58,420 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:24:00,956 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:24:01,076 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:24:01,105 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:25:05,160 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:25:05,175 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:25:05,225 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:25:43,873 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2025-12-18 10:25:45,879 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
+2025-12-18 10:25:48,861 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2025-12-18 10:25:51,050 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
+2025-12-18 10:25:53,054 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
+2025-12-18 10:25:55,058 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
+2025-12-18 10:26:33,321 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:26:33,345 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:26:33,368 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:27:13,245 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:27:13,268 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:27:13,291 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:27:14,777 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:27:14,797 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:27:14,827 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:28:08,400 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:28:08,431 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:28:08,450 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:28:09,452 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:28:09,462 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:28:09,476 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:30:08,158 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:30:08,174 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:30:08,210 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:30:12,656 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:30:12,669 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:30:12,680 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:30:48,734 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:30:48,758 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:30:48,796 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:30:50,230 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:30:50,244 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:30:50,254 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:33:11,536 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:33:11,612 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:33:11,642 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:33:12,479 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:33:12,566 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:33:12,592 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:33:56,596 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:33:56,649 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:33:56,727 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:34:00,277 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:34:00,291 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:34:00,303 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:34:34,383 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:34:34,409 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:34:34,444 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:34:34,588 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:34:34,605 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:34:34,629 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:35:25,595 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:35:25,685 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:35:25,740 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:40:36,817 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:40:36,883 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:40:36,930 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:40:42,248 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:40:42,276 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:40:42,328 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:44:13,707 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:44:13,735 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:44:13,756 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:44:15,585 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:44:15,599 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:44:15,609 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:45:48,170 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:45:48,199 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:45:48,215 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:45:49,225 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:45:49,254 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:45:49,298 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:46:23,489 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:46:23,518 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:46:23,544 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:46:23,745 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:46:23,763 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:46:23,787 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:46:42,819 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:46:42,832 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:46:42,846 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:47:23,374 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:47:23,395 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:47:23,414 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:47:57,568 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:47:57,577 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:47:57,593 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:47:57,761 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:47:57,774 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:47:57,794 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:49:07,234 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:49:07,291 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:49:07,314 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:49:09,954 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:49:10,015 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:49:10,057 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:52:10,390 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:52:10,753 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:52:10,849 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:52:17,697 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:52:17,775 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 10:52:17,826 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:00:45,966 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:00:46,006 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:00:46,027 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:00:51,333 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:00:51,353 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:00:51,378 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:01:26,836 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:01:26,854 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:01:26,873 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:01:29,647 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:01:29,665 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:01:29,686 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:02:44,355 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:02:44,375 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:02:44,393 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:02:46,064 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:02:46,079 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:02:46,089 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:07:02,091 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:07:02,113 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:07:02,134 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:07:09,851 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:07:09,870 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:07:09,889 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:09:26,274 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:09:26,301 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:09:26,323 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:09:27,840 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:09:27,867 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:09:27,879 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:13:58,035 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:13:58,057 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:13:58,073 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:41:47,867 [INFO] Activator:176 - 
+
+
+2025-12-18 11:41:47,870 [INFO] Activator:177 - !SESSION log4j initialized
+2025-12-18 11:41:54,207 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2025-12-18 11:42:00,124 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:42:00,257 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:42:00,410 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:42:00,469 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659
+2025-12-18 11:42:00,489 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/mcu/
+2025-12-18 11:42:00,489 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/boardmanager/
+2025-12-18 11:42:00,489 [WARN] ApiDb:259 - Overriding images path with different value:  => C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/mcufinder/images/
+2025-12-18 11:42:00,495 [INFO] ApiDb:250 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-18 11:42:00,497 [INFO] DbMcusAds:125 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-18 11:42:00,500 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/cs/
+2025-12-18 11:42:00,654 [INFO] RulesReader:64 - Compatibility file has been processed (317 Rules)
+2025-12-18 11:42:00,759 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/mcu/
+2025-12-18 11:42:00,760 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/boardmanager/
+2025-12-18 11:42:00,760 [INFO] ApiDb:261 - Set plugin images path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/mcufinder/images/
+2025-12-18 11:42:00,760 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 11:42:00,760 [INFO] ApiDb:250 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-18 11:42:00,761 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 11:42:00,761 [INFO] DbMcusAds:125 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-18 11:42:00,761 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 11:42:00,761 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 11:42:00,761 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/cs/
+2025-12-18 11:42:00,863 [INFO] MainPanel:274 - HeapMemory: 268435456
+2025-12-18 11:42:01,015 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/mcu/
+2025-12-18 11:42:01,015 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/boardmanager/
+2025-12-18 11:42:01,016 [INFO] ApiDb:261 - Set plugin images path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/mcufinder/images/
+2025-12-18 11:42:01,016 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 11:42:01,016 [INFO] ApiDb:250 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-18 11:42:01,016 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 11:42:01,016 [INFO] DbMcusAds:125 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-18 11:42:01,017 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 11:42:01,017 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 11:42:01,017 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/cs/
+2025-12-18 11:42:01,044 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659
+2025-12-18 11:42:01,045 [INFO] PluginManage:196 - Search for loadable plugins [exclusion list=, ]
+2025-12-18 11:42:01,047 [INFO] PluginManage:310 - Check plugin analytics
+2025-12-18 11:42:06,016 [INFO] AnalyticsPlugin:253 - Accepted Software Licenses: 
+2025-12-18 11:42:06,017 [INFO] AnalyticsPlugin:255 - Accepted CMSIS Pack Licenses: 
+2025-12-18 11:42:06,017 [INFO] AnalyticsPlugin:257 - Accepted Firmware Licenses: 
+2025-12-18 11:42:06,030 [INFO] PluginManage:359 - Loaded plugin analytics (category:tool,tabindex:-1)
+2025-12-18 11:42:06,030 [INFO] PluginManage:310 - Check plugin cadmodel
+2025-12-18 11:42:06,042 [INFO] CADModel:105 - Init CAD model plugin
+2025-12-18 11:42:06,044 [INFO] PluginManage:359 - Loaded plugin cadmodel (category:power,tabindex:5)
+2025-12-18 11:42:06,044 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:42:06,044 [INFO] PluginManage:310 - Check plugin clock
+2025-12-18 11:42:06,058 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:42:06,070 [INFO] PluginManage:359 - Loaded plugin clock (category:base,tabindex:2)
+2025-12-18 11:42:06,070 [INFO] PluginManage:310 - Check plugin ddr
+2025-12-18 11:42:06,078 [INFO] PluginManage:359 - Loaded plugin ddr (category:tool,tabindex:6)
+2025-12-18 11:42:06,078 [INFO] PluginManage:310 - Check plugin filemanager
+2025-12-18 11:42:06,083 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:42:06,298 [INFO] PluginManage:359 - Loaded plugin filemanager (category:base,tabindex:10)
+2025-12-18 11:42:06,299 [INFO] PluginManage:310 - Check plugin ipmanager
+2025-12-18 11:42:06,310 [INFO] PluginManage:359 - Loaded plugin ipmanager (category:base,tabindex:5)
+2025-12-18 11:42:06,311 [INFO] PluginManage:310 - Check plugin lpbam
+2025-12-18 11:42:06,323 [INFO] PluginManage:359 - Loaded plugin lpbam (category:base,tabindex:0)
+2025-12-18 11:42:06,323 [INFO] PluginManage:310 - Check plugin memorymap
+2025-12-18 11:42:06,343 [INFO] PluginManage:359 - Loaded plugin memorymap (category:base,tabindex:4)
+2025-12-18 11:42:06,343 [INFO] PluginManage:310 - Check plugin pinoutandconfiguration
+2025-12-18 11:42:06,356 [INFO] PluginManage:359 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2025-12-18 11:42:06,357 [INFO] PluginManage:310 - Check plugin pinoutconfig
+2025-12-18 11:42:06,483 [WARN] SupportedApi:132 - Cannot load RTOS API schema: s4s-elt-must-match.1: The content of 'definitions' must match (annotation?, (simpleType | complexType)?, (unique | key | keyref)*)). A problem was found starting at: attribute.
+2025-12-18 11:42:06,658 [INFO] PluginManage:359 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2025-12-18 11:42:06,658 [INFO] PluginManage:310 - Check plugin power
+2025-12-18 11:42:06,674 [INFO] PluginManage:359 - Loaded plugin power (category:power,tabindex:4)
+2025-12-18 11:42:06,674 [INFO] PluginManage:310 - Check plugin projectmanager
+2025-12-18 11:42:06,697 [INFO] PluginManage:359 - Loaded plugin projectmanager (category:projectmanager,tabindex:4)
+2025-12-18 11:42:06,697 [INFO] PluginManage:310 - Check plugin rif
+2025-12-18 11:42:06,710 [INFO] PluginManage:359 - Loaded plugin rif (category:base,tabindex:3)
+2025-12-18 11:42:06,710 [INFO] PluginManage:310 - Check plugin thirdparty
+2025-12-18 11:42:06,934 [INFO] PluginManage:359 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2025-12-18 11:42:06,935 [INFO] PluginManage:310 - Check plugin tools
+2025-12-18 11:42:06,934 [WARN] IntegrityCheckThread:84 - waiting for thirdparty lock release [integrity check]
+2025-12-18 11:42:06,936 [INFO] IntegrityCheckThread:86 - entering critical section [integrity check]
+2025-12-18 11:42:06,937 [INFO] ThirdPartyUpdaterWithRetryManager:70 - Updater plugin not ready yet. [1/15]
+2025-12-18 11:42:06,939 [INFO] PluginManage:359 - Loaded plugin tools (category:base,tabindex:7)
+2025-12-18 11:42:06,939 [INFO] PluginManage:310 - Check plugin tutovideos
+2025-12-18 11:42:07,235 [INFO] PluginManage:359 - Loaded plugin tutovideos (category:base,tabindex:-1)
+2025-12-18 11:42:07,235 [INFO] PluginManage:310 - Check plugin updater
+2025-12-18 11:42:07,266 [INFO] PluginManage:359 - Loaded plugin updater (category:base,tabindex:12)
+2025-12-18 11:42:07,266 [INFO] PluginManage:310 - Check plugin userauth
+2025-12-18 11:42:07,272 [INFO] UserAuth:118 - Init User Auth plugin
+2025-12-18 11:42:07,273 [INFO] PluginManage:359 - Loaded plugin userauth (category:base,tabindex:14)
+2025-12-18 11:42:07,274 [INFO] PluginManage:283 - PluginManage : Loaded plugins [18]
+2025-12-18 11:42:07,554 [INFO] PinOutPanel:1589 - setPackage(No Configuration,No Configuration)
+2025-12-18 11:42:07,685 [INFO] CADModel:165 - CPN selected for project level
+2025-12-18 11:42:07,685 [INFO] CADModel:114 - Register for checkConnection events
+2025-12-18 11:42:07,713 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,714 [INFO] PluginManager:220 - loadIPPluginJar : add adc
+2025-12-18 11:42:07,718 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,719 [INFO] PluginManager:220 - loadIPPluginJar : add aes
+2025-12-18 11:42:07,724 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,724 [INFO] PluginManager:220 - loadIPPluginJar : add can
+2025-12-18 11:42:07,728 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,728 [INFO] PluginManager:220 - loadIPPluginJar : add comp
+2025-12-18 11:42:07,732 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,732 [INFO] PluginManager:220 - loadIPPluginJar : add cryp
+2025-12-18 11:42:07,737 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,737 [INFO] PluginManager:220 - loadIPPluginJar : add ddr_ctrl_phy
+2025-12-18 11:42:07,740 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,740 [INFO] PluginManager:220 - loadIPPluginJar : add dfsdm
+2025-12-18 11:42:07,748 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,748 [INFO] PluginManager:220 - loadIPPluginJar : add dma
+2025-12-18 11:42:07,752 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,752 [INFO] PluginManager:220 - loadIPPluginJar : add dma3
+2025-12-18 11:42:07,757 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,757 [INFO] PluginManager:220 - loadIPPluginJar : add extmemmanager
+2025-12-18 11:42:07,760 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,761 [INFO] PluginManager:220 - loadIPPluginJar : add fatfs
+2025-12-18 11:42:07,768 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,768 [INFO] PluginManager:220 - loadIPPluginJar : add fmc
+2025-12-18 11:42:07,778 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,779 [INFO] PluginManager:220 - loadIPPluginJar : add freertos
+2025-12-18 11:42:07,782 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,782 [INFO] PluginManager:220 - loadIPPluginJar : add genericplugin
+2025-12-18 11:42:07,787 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,787 [INFO] PluginManager:220 - loadIPPluginJar : add gfxmmu
+2025-12-18 11:42:07,795 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,795 [INFO] PluginManager:220 - loadIPPluginJar : add gic
+2025-12-18 11:42:07,802 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,803 [INFO] PluginManager:220 - loadIPPluginJar : add gpio
+2025-12-18 11:42:07,808 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,808 [INFO] PluginManager:220 - loadIPPluginJar : add gtzc
+2025-12-18 11:42:07,812 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,812 [INFO] PluginManager:220 - loadIPPluginJar : add hash
+2025-12-18 11:42:07,816 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,817 [INFO] PluginManager:220 - loadIPPluginJar : add i2c
+2025-12-18 11:42:07,820 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,821 [INFO] PluginManager:220 - loadIPPluginJar : add i2s
+2025-12-18 11:42:07,826 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,826 [INFO] PluginManager:220 - loadIPPluginJar : add i3c
+2025-12-18 11:42:07,831 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,832 [INFO] PluginManager:220 - loadIPPluginJar : add ipddr
+2025-12-18 11:42:07,843 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,844 [INFO] PluginManager:220 - loadIPPluginJar : add linkedlist
+2025-12-18 11:42:07,848 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,849 [INFO] PluginManager:220 - loadIPPluginJar : add lorawan
+2025-12-18 11:42:07,851 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,852 [INFO] PluginManager:220 - loadIPPluginJar : add ltdc
+2025-12-18 11:42:07,860 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,860 [INFO] PluginManager:220 - loadIPPluginJar : add mdma
+2025-12-18 11:42:07,865 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,865 [INFO] PluginManager:220 - loadIPPluginJar : add nvic
+2025-12-18 11:42:07,870 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,870 [INFO] PluginManager:220 - loadIPPluginJar : add opamp
+2025-12-18 11:42:07,874 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,875 [INFO] PluginManager:220 - loadIPPluginJar : add openamp
+2025-12-18 11:42:07,879 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,879 [INFO] PluginManager:220 - loadIPPluginJar : add pdm2pcm
+2025-12-18 11:42:07,889 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,894 [INFO] PluginManager:220 - loadIPPluginJar : add plateformsettings
+2025-12-18 11:42:07,897 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,897 [INFO] PluginManager:220 - loadIPPluginJar : add quadspi
+2025-12-18 11:42:07,899 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,900 [INFO] PluginManager:220 - loadIPPluginJar : add radio
+2025-12-18 11:42:07,905 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,905 [INFO] PluginManager:220 - loadIPPluginJar : add resmgrutility
+2025-12-18 11:42:07,909 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,909 [INFO] PluginManager:220 - loadIPPluginJar : add sai
+2025-12-18 11:42:07,913 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,914 [INFO] PluginManager:220 - loadIPPluginJar : add spi
+2025-12-18 11:42:07,921 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,922 [INFO] PluginManager:220 - loadIPPluginJar : add stm32_wpan
+2025-12-18 11:42:07,924 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,924 [INFO] PluginManager:220 - loadIPPluginJar : add tim
+2025-12-18 11:42:07,929 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,929 [INFO] PluginManager:220 - loadIPPluginJar : add touchsensing
+2025-12-18 11:42:07,933 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,933 [INFO] PluginManager:220 - loadIPPluginJar : add tracer_emb
+2025-12-18 11:42:07,936 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,936 [INFO] PluginManager:220 - loadIPPluginJar : add ts
+2025-12-18 11:42:07,938 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,938 [INFO] PluginManager:220 - loadIPPluginJar : add tsc
+2025-12-18 11:42:07,941 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,941 [INFO] PluginManager:220 - loadIPPluginJar : add ucpd
+2025-12-18 11:42:07,945 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,945 [INFO] PluginManager:220 - loadIPPluginJar : add usart
+2025-12-18 11:42:07,951 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:42:07,951 [INFO] PluginManager:220 - loadIPPluginJar : add usbx
+2025-12-18 11:42:08,111 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 11:42:08,188 [INFO] RulesReader:64 - Compatibility file has been processed (317 Rules)
+2025-12-18 11:42:08,206 [INFO] RulesReader:64 - Compatibility file has been processed (317 Rules)
+2025-12-18 11:42:08,219 [INFO] CADModel:165 - CPN selected for project level
+2025-12-18 11:42:08,220 [INFO] CADModel:114 - Register for checkConnection events
+2025-12-18 11:42:08,220 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 11:42:08,220 [ERROR] CADModel:125 - Updater not yet initialized, retry later 
+2025-12-18 11:42:08,408 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 11:42:08,410 [INFO] CADModel:165 - CPN selected for project level
+2025-12-18 11:42:08,411 [INFO] CADModel:114 - Register for checkConnection events
+2025-12-18 11:42:08,411 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 11:42:08,411 [ERROR] CADModel:125 - Updater not yet initialized, retry later 
+2025-12-18 11:42:08,415 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 11:42:08,621 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 11:42:08,627 [INFO] DbMcusAds:53 - JSON generation date=Tue Dec 16 04:41:46 IST 2025 (1765840306612)
+2025-12-18 11:42:08,627 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 11:42:08,690 [WARN] DetailPanel:346 - Failed to get advertising image, set to default
+2025-12-18 11:42:08,791 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 11:42:08,792 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 11:42:08,792 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 11:42:08,793 [WARN] DetailPanel:346 - Failed to get advertising image, set to default
+2025-12-18 11:42:08,794 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 11:42:08,862 [ERROR] Updater:1198 - MainUpdater not yet initialized. External WinMGr cannot be set.
+2025-12-18 11:42:08,864 [INFO] Updater:1134 - Updater Version found : 6.15.0
+2025-12-18 11:42:08,885 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659
+2025-12-18 11:42:09,391 [INFO] MainUpdater:2872 - connection check result : 22
+2025-12-18 11:42:09,392 [INFO] MainUpdater:289 - Updater Check For Update Now.
+2025-12-18 11:42:09,392 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.150
+2025-12-18 11:42:09,416 [INFO] McuFinderGlobals:63 - Set McuFinder mode to 2 (CubeIDE integrated)
+2025-12-18 11:42:09,418 [INFO] UserAuth:487 - Internet connection configuration mode: 2
+2025-12-18 11:42:09,424 [INFO] UserAuth:487 - Internet connection configuration mode: 2
+2025-12-18 11:42:09,721 [INFO] CheckServerUpdateThread:120 - End of CheckServer Thread
+2025-12-18 11:42:10,279 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENVWB1.1.4.0
+2025-12-18 11:42:10,291 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-ATR-ASTRA1.2.0.2
+2025-12-18 11:42:10,303 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SMBUS.2.1.0
+2025-12-18 11:42:10,311 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ST60.1.0.0
+2025-12-18 11:42:10,356 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F7.1.1.0
+2025-12-18 11:42:10,370 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENV1.5.1.0
+2025-12-18 11:42:10,386 [WARN] PackLoader:240 - Cannot read IP mode file for WES.I-CUBE-Cesium.1.4.0
+2025-12-18 11:42:10,428 [WARN] PackLoader:240 - Cannot read IP mode file for Infineon.AIROC-Wi-Fi-Bluetooth-STM32.1.7.1
+2025-12-18 11:42:10,470 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7.3.4.0
+2025-12-18 11:42:10,486 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DISPLAY.3.0.0
+2025-12-18 11:42:10,505 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC10.1.0.0
+2025-12-18 11:42:10,514 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ST60.1.1.0
+2025-12-18 11:42:10,524 [WARN] PackLoader:240 - Cannot read IP mode file for emotas.I-CUBE-CANOPEN.1.3.0
+2025-12-18 11:42:10,532 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-GNSS1.7.1.0
+2025-12-18 11:42:10,543 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-STBOX1.2.1.0
+2025-12-18 11:42:10,553 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-SMARTAG2.1.2.0
+2025-12-18 11:42:10,559 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-FLIGHT1.5.1.0
+2025-12-18 11:42:10,572 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-12-18 11:42:10,573 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-12-18 11:42:10,575 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-12-18 11:42:10,577 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-12-18 11:42:10,579 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-12-18 11:42:10,583 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WL.2.0.0
+2025-12-18 11:42:10,591 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENV1.5.0.0
+2025-12-18 11:42:10,673 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7RS.1.2.0
+2025-12-18 11:42:10,708 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE2.3.3.0
+2025-12-18 11:42:10,747 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC9.1.0.0
+2025-12-18 11:42:10,760 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfSSL.5.8.2
+2025-12-18 11:42:10,770 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE1.7.1.0
+2025-12-18 11:42:10,776 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfMQTT.1.19.2
+2025-12-18 11:42:10,786 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-FREERTOS.1.4.0
+2025-12-18 11:42:10,799 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-EEPRMA1.5.2.0
+2025-12-18 11:42:10,812 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ST67W61.1.1.0
+2025-12-18 11:42:11,029 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.12.0.0
+2025-12-18 11:42:11,187 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G0.1.1.0
+2025-12-18 11:42:11,198 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SAFEA1.1.2.2
+2025-12-18 11:42:11,208 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC4.3.0.0
+2025-12-18 11:42:11,223 [WARN] PackLoader:240 - Cannot read IP mode file for EmbeddedOffice.I-CUBE-FS-RTOS.1.0.1
+2025-12-18 11:42:11,234 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-WB05N.2.0.0
+2025-12-18 11:42:11,243 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfTPM.3.8.0
+2025-12-18 11:42:11,253 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TCPP.4.2.0
+2025-12-18 11:42:11,261 [WARN] PackLoader:240 - Cannot read IP mode file for RealThread.X-CUBE-RT-Thread_Nano.4.1.1
+2025-12-18 11:42:11,270 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-ATR-SIGFOX1.3.2.0
+2025-12-18 11:42:11,281 [WARN] PackLoader:240 - Cannot read IP mode file for ITTIA_DB.I-CUBE-ITTIADB.8.9.0
+2025-12-18 11:42:11,288 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ST67W61.1.0.0
+2025-12-18 11:42:11,296 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.10.2.0
+2025-12-18 11:42:11,343 [WARN] PackLoader:240 - Cannot read IP mode file for SEGGER.I-CUBE-embOS.1.3.1
+2025-12-18 11:42:11,409 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALGOBUILD.1.4.0
+2025-12-18 11:42:11,505 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.11.3.0
+2025-12-18 11:42:11,666 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-PM33A1.1.0.0
+2025-12-18 11:42:11,691 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F4.1.1.0
+2025-12-18 11:42:11,697 [WARN] PackLoader:240 - Cannot read IP mode file for Avnet-IotConnect.X-CUBE-IoTC-DA16k-PMOD.1.0.0
+2025-12-18 11:42:11,703 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ISPU.2.1.0
+2025-12-18 11:42:11,722 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-IPS.3.2.0
+2025-12-18 11:42:11,742 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC12.1.0.0
+2025-12-18 11:42:11,765 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L5.2.0.0
+2025-12-18 11:42:11,780 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC6.3.1.0
+2025-12-18 11:42:11,789 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-FREERTOS.1.3.1
+2025-12-18 11:42:11,795 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.26.0
+2025-12-18 11:42:11,805 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-STAIOTCFT.1.0.0
+2025-12-18 11:42:11,813 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DPower.1.3.0
+2025-12-18 11:42:11,908 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : LAN8742 Phy interface Condition cause : null
+2025-12-18 11:42:11,910 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L4.2.0.0
+2025-12-18 11:42:11,912 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2025-12-18 11:42:11,912 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2025-12-18 11:42:11,913 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2025-12-18 11:42:11,930 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0
+2025-12-18 11:42:11,953 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLEMGR.4.1.0
+2025-12-18 11:42:11,977 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 11:42:11,978 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 11:42:11,982 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0
+2025-12-18 11:42:11,983 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 11:42:11,983 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 11:42:11,984 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 11:42:11,985 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 11:42:11,985 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 11:42:11,995 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-GNSS1.7.0.1
+2025-12-18 11:42:12,000 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.25.0
+2025-12-18 11:42:12,006 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : Cortex-A Device cause : null
+2025-12-18 11:42:12,035 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : Cortex-A Device cause : null
+2025-12-18 11:42:12,035 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : Cortex-A Device cause : null
+2025-12-18 11:42:12,035 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : Cortex-A Device cause : null
+2025-12-18 11:42:12,050 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SUBG2.5.0.0
+2025-12-18 11:42:12,087 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7RS.1.1.0
+2025-12-18 11:42:12,097 [WARN] PackLoader:240 - Cannot read IP mode file for Cesanta.I-CUBE-Mongoose.7.13.0
+2025-12-18 11:42:12,119 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G4.2.0.0
+2025-12-18 11:42:12,178 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfSSH.1.4.20
+2025-12-18 11:42:12,187 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC7.2.0.0
+2025-12-18 11:42:12,209 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-IPS.3.1.0
+2025-12-18 11:42:12,252 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALS.1.0.2
+2025-12-18 11:42:12,267 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-STSE01.1.0.0
+2025-12-18 11:42:12,291 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOF1.3.4.3
+2025-12-18 11:42:12,304 [INFO] ThirdParty:978 - Integrity check success = true
+2025-12-18 11:42:12,304 [INFO] IntegrityCheckThread:100 - exiting critical section [integrity check]
+2025-12-18 11:42:12,304 [INFO] IntegrityCheckThread:103 - End integrity checks thread
+2025-12-18 11:45:26,911 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:45:26,970 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:45:27,030 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:45:46,612 [INFO] Activator:176 - 
+
+
+2025-12-18 11:45:46,615 [INFO] Activator:177 - !SESSION log4j initialized
+2025-12-18 11:45:53,354 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2025-12-18 11:47:04,674 [INFO] Activator:176 - 
+
+
+2025-12-18 11:47:04,674 [INFO] Activator:177 - !SESSION log4j initialized
+2025-12-18 11:47:12,204 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2025-12-18 11:47:17,605 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:47:17,868 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:47:17,946 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:47:18,071 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659
+2025-12-18 11:47:18,102 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/mcu/
+2025-12-18 11:47:18,102 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/boardmanager/
+2025-12-18 11:47:18,102 [WARN] ApiDb:259 - Overriding images path with different value:  => C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/mcufinder/images/
+2025-12-18 11:47:18,102 [INFO] ApiDb:250 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-18 11:47:18,102 [INFO] DbMcusAds:125 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-18 11:47:18,118 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/cs/
+2025-12-18 11:47:18,258 [INFO] RulesReader:64 - Compatibility file has been processed (317 Rules)
+2025-12-18 11:47:18,352 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/mcu/
+2025-12-18 11:47:18,352 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/boardmanager/
+2025-12-18 11:47:18,352 [INFO] ApiDb:261 - Set plugin images path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/mcufinder/images/
+2025-12-18 11:47:18,352 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 11:47:18,352 [INFO] ApiDb:250 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-18 11:47:18,352 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 11:47:18,352 [INFO] DbMcusAds:125 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-18 11:47:18,352 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 11:47:18,352 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 11:47:18,352 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/cs/
+2025-12-18 11:47:18,446 [INFO] MainPanel:274 - HeapMemory: 268435456
+2025-12-18 11:47:18,555 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/mcu/
+2025-12-18 11:47:18,555 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/boardmanager/
+2025-12-18 11:47:18,555 [INFO] ApiDb:261 - Set plugin images path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/mcufinder/images/
+2025-12-18 11:47:18,555 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 11:47:18,555 [INFO] ApiDb:250 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-18 11:47:18,555 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 11:47:18,555 [INFO] DbMcusAds:125 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-18 11:47:18,555 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 11:47:18,555 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-18 11:47:18,555 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/cs/
+2025-12-18 11:47:18,571 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659
+2025-12-18 11:47:18,571 [INFO] PluginManage:196 - Search for loadable plugins [exclusion list=, ]
+2025-12-18 11:47:18,571 [INFO] PluginManage:310 - Check plugin analytics
+2025-12-18 11:47:23,399 [INFO] AnalyticsPlugin:253 - Accepted Software Licenses: 
+2025-12-18 11:47:23,399 [INFO] AnalyticsPlugin:255 - Accepted CMSIS Pack Licenses: 
+2025-12-18 11:47:23,399 [INFO] AnalyticsPlugin:257 - Accepted Firmware Licenses: 
+2025-12-18 11:47:23,415 [INFO] PluginManage:359 - Loaded plugin analytics (category:tool,tabindex:-1)
+2025-12-18 11:47:23,415 [INFO] PluginManage:310 - Check plugin cadmodel
+2025-12-18 11:47:23,415 [INFO] CADModel:105 - Init CAD model plugin
+2025-12-18 11:47:23,415 [INFO] PluginManage:359 - Loaded plugin cadmodel (category:power,tabindex:5)
+2025-12-18 11:47:23,415 [INFO] PluginManage:310 - Check plugin clock
+2025-12-18 11:47:23,430 [INFO] PluginManage:359 - Loaded plugin clock (category:base,tabindex:2)
+2025-12-18 11:47:23,430 [INFO] PluginManage:310 - Check plugin ddr
+2025-12-18 11:47:23,430 [INFO] PluginManage:359 - Loaded plugin ddr (category:tool,tabindex:6)
+2025-12-18 11:47:23,430 [INFO] PluginManage:310 - Check plugin filemanager
+2025-12-18 11:47:23,462 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:47:23,587 [INFO] PluginManage:359 - Loaded plugin filemanager (category:base,tabindex:10)
+2025-12-18 11:47:23,587 [INFO] PluginManage:310 - Check plugin ipmanager
+2025-12-18 11:47:23,602 [INFO] PluginManage:359 - Loaded plugin ipmanager (category:base,tabindex:5)
+2025-12-18 11:47:23,602 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:47:23,612 [INFO] PluginManage:310 - Check plugin lpbam
+2025-12-18 11:47:23,612 [INFO] PluginManage:359 - Loaded plugin lpbam (category:base,tabindex:0)
+2025-12-18 11:47:23,612 [INFO] PluginManage:310 - Check plugin memorymap
+2025-12-18 11:47:23,628 [INFO] PluginManage:359 - Loaded plugin memorymap (category:base,tabindex:4)
+2025-12-18 11:47:23,628 [INFO] PluginManage:310 - Check plugin pinoutandconfiguration
+2025-12-18 11:47:23,643 [INFO] PluginManage:359 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2025-12-18 11:47:23,643 [INFO] PluginManage:310 - Check plugin pinoutconfig
+2025-12-18 11:47:23,659 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 11:47:23,768 [WARN] SupportedApi:132 - Cannot load RTOS API schema: s4s-elt-must-match.1: The content of 'definitions' must match (annotation?, (simpleType | complexType)?, (unique | key | keyref)*)). A problem was found starting at: attribute.
+2025-12-18 11:47:23,909 [INFO] PluginManage:359 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2025-12-18 11:47:23,909 [INFO] PluginManage:310 - Check plugin power
+2025-12-18 11:47:23,925 [INFO] PluginManage:359 - Loaded plugin power (category:power,tabindex:4)
+2025-12-18 11:47:23,925 [INFO] PluginManage:310 - Check plugin projectmanager
+2025-12-18 11:47:23,951 [INFO] PluginManage:359 - Loaded plugin projectmanager (category:projectmanager,tabindex:4)
+2025-12-18 11:47:23,951 [INFO] PluginManage:310 - Check plugin rif
+2025-12-18 11:47:23,951 [INFO] PluginManage:359 - Loaded plugin rif (category:base,tabindex:3)
+2025-12-18 11:47:23,951 [INFO] PluginManage:310 - Check plugin thirdparty
+2025-12-18 11:47:24,108 [INFO] PluginManage:359 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2025-12-18 11:47:24,108 [INFO] PluginManage:310 - Check plugin tools
+2025-12-18 11:47:24,108 [WARN] IntegrityCheckThread:84 - waiting for thirdparty lock release [integrity check]
+2025-12-18 11:47:24,108 [INFO] IntegrityCheckThread:86 - entering critical section [integrity check]
+2025-12-18 11:47:24,108 [INFO] ThirdPartyUpdaterWithRetryManager:70 - Updater plugin not ready yet. [1/15]
+2025-12-18 11:47:24,108 [INFO] PluginManage:359 - Loaded plugin tools (category:base,tabindex:7)
+2025-12-18 11:47:24,108 [INFO] PluginManage:310 - Check plugin tutovideos
+2025-12-18 11:47:24,311 [INFO] PluginManage:359 - Loaded plugin tutovideos (category:base,tabindex:-1)
+2025-12-18 11:47:24,311 [INFO] PluginManage:310 - Check plugin updater
+2025-12-18 11:47:24,339 [INFO] PluginManage:359 - Loaded plugin updater (category:base,tabindex:12)
+2025-12-18 11:47:24,339 [INFO] PluginManage:310 - Check plugin userauth
+2025-12-18 11:47:24,339 [INFO] UserAuth:118 - Init User Auth plugin
+2025-12-18 11:47:24,339 [INFO] PluginManage:359 - Loaded plugin userauth (category:base,tabindex:14)
+2025-12-18 11:47:24,339 [INFO] PluginManage:283 - PluginManage : Loaded plugins [18]
+2025-12-18 11:47:24,574 [INFO] PinOutPanel:1589 - setPackage(No Configuration,No Configuration)
+2025-12-18 11:47:24,668 [INFO] CADModel:165 - CPN selected for project level
+2025-12-18 11:47:24,668 [INFO] CADModel:114 - Register for checkConnection events
+2025-12-18 11:47:24,699 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,699 [INFO] PluginManager:220 - loadIPPluginJar : add adc
+2025-12-18 11:47:24,699 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,699 [INFO] PluginManager:220 - loadIPPluginJar : add aes
+2025-12-18 11:47:24,699 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,699 [INFO] PluginManager:220 - loadIPPluginJar : add can
+2025-12-18 11:47:24,699 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,699 [INFO] PluginManager:220 - loadIPPluginJar : add comp
+2025-12-18 11:47:24,699 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,699 [INFO] PluginManager:220 - loadIPPluginJar : add cryp
+2025-12-18 11:47:24,715 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,715 [INFO] PluginManager:220 - loadIPPluginJar : add ddr_ctrl_phy
+2025-12-18 11:47:24,715 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,715 [INFO] PluginManager:220 - loadIPPluginJar : add dfsdm
+2025-12-18 11:47:24,715 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,715 [INFO] PluginManager:220 - loadIPPluginJar : add dma
+2025-12-18 11:47:24,730 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,730 [INFO] PluginManager:220 - loadIPPluginJar : add dma3
+2025-12-18 11:47:24,730 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,730 [INFO] PluginManager:220 - loadIPPluginJar : add extmemmanager
+2025-12-18 11:47:24,730 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,730 [INFO] PluginManager:220 - loadIPPluginJar : add fatfs
+2025-12-18 11:47:24,730 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,730 [INFO] PluginManager:220 - loadIPPluginJar : add fmc
+2025-12-18 11:47:24,746 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,746 [INFO] PluginManager:220 - loadIPPluginJar : add freertos
+2025-12-18 11:47:24,746 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,746 [INFO] PluginManager:220 - loadIPPluginJar : add genericplugin
+2025-12-18 11:47:24,746 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,746 [INFO] PluginManager:220 - loadIPPluginJar : add gfxmmu
+2025-12-18 11:47:24,746 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,746 [INFO] PluginManager:220 - loadIPPluginJar : add gic
+2025-12-18 11:47:24,762 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,762 [INFO] PluginManager:220 - loadIPPluginJar : add gpio
+2025-12-18 11:47:24,762 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,762 [INFO] PluginManager:220 - loadIPPluginJar : add gtzc
+2025-12-18 11:47:24,762 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,762 [INFO] PluginManager:220 - loadIPPluginJar : add hash
+2025-12-18 11:47:24,762 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,762 [INFO] PluginManager:220 - loadIPPluginJar : add i2c
+2025-12-18 11:47:24,762 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,777 [INFO] PluginManager:220 - loadIPPluginJar : add i2s
+2025-12-18 11:47:24,777 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,777 [INFO] PluginManager:220 - loadIPPluginJar : add i3c
+2025-12-18 11:47:24,777 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,777 [INFO] PluginManager:220 - loadIPPluginJar : add ipddr
+2025-12-18 11:47:24,793 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,793 [INFO] PluginManager:220 - loadIPPluginJar : add linkedlist
+2025-12-18 11:47:24,793 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,793 [INFO] PluginManager:220 - loadIPPluginJar : add lorawan
+2025-12-18 11:47:24,793 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,793 [INFO] PluginManager:220 - loadIPPluginJar : add ltdc
+2025-12-18 11:47:24,793 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,793 [INFO] PluginManager:220 - loadIPPluginJar : add mdma
+2025-12-18 11:47:24,809 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,809 [INFO] PluginManager:220 - loadIPPluginJar : add nvic
+2025-12-18 11:47:24,809 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,809 [INFO] PluginManager:220 - loadIPPluginJar : add opamp
+2025-12-18 11:47:24,809 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,809 [INFO] PluginManager:220 - loadIPPluginJar : add openamp
+2025-12-18 11:47:24,809 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,809 [INFO] PluginManager:220 - loadIPPluginJar : add pdm2pcm
+2025-12-18 11:47:24,824 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,824 [INFO] PluginManager:220 - loadIPPluginJar : add plateformsettings
+2025-12-18 11:47:24,824 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,824 [INFO] PluginManager:220 - loadIPPluginJar : add quadspi
+2025-12-18 11:47:24,824 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,824 [INFO] PluginManager:220 - loadIPPluginJar : add radio
+2025-12-18 11:47:24,840 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,840 [INFO] PluginManager:220 - loadIPPluginJar : add resmgrutility
+2025-12-18 11:47:24,840 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,840 [INFO] PluginManager:220 - loadIPPluginJar : add sai
+2025-12-18 11:47:24,840 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,840 [INFO] PluginManager:220 - loadIPPluginJar : add spi
+2025-12-18 11:47:24,855 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,855 [INFO] PluginManager:220 - loadIPPluginJar : add stm32_wpan
+2025-12-18 11:47:24,855 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,855 [INFO] PluginManager:220 - loadIPPluginJar : add tim
+2025-12-18 11:47:24,855 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,855 [INFO] PluginManager:220 - loadIPPluginJar : add touchsensing
+2025-12-18 11:47:24,855 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,855 [INFO] PluginManager:220 - loadIPPluginJar : add tracer_emb
+2025-12-18 11:47:24,855 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,855 [INFO] PluginManager:220 - loadIPPluginJar : add ts
+2025-12-18 11:47:24,871 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,871 [INFO] PluginManager:220 - loadIPPluginJar : add tsc
+2025-12-18 11:47:24,871 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,871 [INFO] PluginManager:220 - loadIPPluginJar : add ucpd
+2025-12-18 11:47:24,871 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,871 [INFO] PluginManager:220 - loadIPPluginJar : add usart
+2025-12-18 11:47:24,871 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-12-18 11:47:24,871 [INFO] PluginManager:220 - loadIPPluginJar : add usbx
+2025-12-18 11:47:25,035 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 11:47:25,098 [INFO] RulesReader:64 - Compatibility file has been processed (317 Rules)
+2025-12-18 11:47:25,098 [INFO] RulesReader:64 - Compatibility file has been processed (317 Rules)
+2025-12-18 11:47:25,113 [INFO] CADModel:165 - CPN selected for project level
+2025-12-18 11:47:25,113 [INFO] CADModel:114 - Register for checkConnection events
+2025-12-18 11:47:25,113 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 11:47:25,113 [ERROR] CADModel:125 - Updater not yet initialized, retry later 
+2025-12-18 11:47:25,315 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 11:47:25,320 [INFO] CADModel:165 - CPN selected for project level
+2025-12-18 11:47:25,320 [INFO] CADModel:114 - Register for checkConnection events
+2025-12-18 11:47:25,320 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 11:47:25,320 [ERROR] CADModel:125 - Updater not yet initialized, retry later 
+2025-12-18 11:47:25,320 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 11:47:25,461 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 11:47:25,476 [INFO] DbMcusAds:53 - JSON generation date=Tue Dec 16 04:41:46 IST 2025 (1765840306612)
+2025-12-18 11:47:25,476 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 11:47:25,523 [WARN] DetailPanel:346 - Failed to get advertising image, set to default
+2025-12-18 11:47:25,633 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 11:47:25,633 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 11:47:25,633 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 11:47:25,633 [WARN] DetailPanel:346 - Failed to get advertising image, set to default
+2025-12-18 11:47:25,633 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-12-18 11:47:25,742 [ERROR] Updater:1198 - MainUpdater not yet initialized. External WinMGr cannot be set.
+2025-12-18 11:47:25,742 [INFO] Updater:1134 - Updater Version found : 6.15.0
+2025-12-18 11:47:25,758 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659
+2025-12-18 11:47:26,039 [INFO] MainUpdater:2872 - connection check result : 22
+2025-12-18 11:47:26,039 [INFO] MainUpdater:289 - Updater Check For Update Now.
+2025-12-18 11:47:26,039 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.150
+2025-12-18 11:47:26,048 [INFO] McuFinderGlobals:63 - Set McuFinder mode to 2 (CubeIDE integrated)
+2025-12-18 11:47:26,048 [INFO] UserAuth:487 - Internet connection configuration mode: 2
+2025-12-18 11:47:26,048 [INFO] UserAuth:487 - Internet connection configuration mode: 2
+2025-12-18 11:47:26,386 [INFO] CheckServerUpdateThread:120 - End of CheckServer Thread
+2025-12-18 11:47:27,363 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENVWB1.1.4.0
+2025-12-18 11:47:27,374 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-ATR-ASTRA1.2.0.2
+2025-12-18 11:47:27,385 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SMBUS.2.1.0
+2025-12-18 11:47:27,392 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ST60.1.0.0
+2025-12-18 11:47:27,439 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F7.1.1.0
+2025-12-18 11:47:27,453 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENV1.5.1.0
+2025-12-18 11:47:27,470 [WARN] PackLoader:240 - Cannot read IP mode file for WES.I-CUBE-Cesium.1.4.0
+2025-12-18 11:47:27,514 [WARN] PackLoader:240 - Cannot read IP mode file for Infineon.AIROC-Wi-Fi-Bluetooth-STM32.1.7.1
+2025-12-18 11:47:27,561 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7.3.4.0
+2025-12-18 11:47:27,581 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DISPLAY.3.0.0
+2025-12-18 11:47:27,611 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC10.1.0.0
+2025-12-18 11:47:27,621 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ST60.1.1.0
+2025-12-18 11:47:27,630 [WARN] PackLoader:240 - Cannot read IP mode file for emotas.I-CUBE-CANOPEN.1.3.0
+2025-12-18 11:47:27,638 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-GNSS1.7.1.0
+2025-12-18 11:47:27,650 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-STBOX1.2.1.0
+2025-12-18 11:47:27,660 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-SMARTAG2.1.2.0
+2025-12-18 11:47:27,667 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-FLIGHT1.5.1.0
+2025-12-18 11:47:27,680 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-12-18 11:47:27,681 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-12-18 11:47:27,683 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-12-18 11:47:27,684 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-12-18 11:47:27,686 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-12-18 11:47:27,691 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WL.2.0.0
+2025-12-18 11:47:27,699 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENV1.5.0.0
+2025-12-18 11:47:27,732 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7RS.1.2.0
+2025-12-18 11:47:27,743 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE2.3.3.0
+2025-12-18 11:47:27,788 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC9.1.0.0
+2025-12-18 11:47:27,796 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfSSL.5.8.2
+2025-12-18 11:47:27,803 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE1.7.1.0
+2025-12-18 11:47:27,808 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfMQTT.1.19.2
+2025-12-18 11:47:27,815 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-FREERTOS.1.4.0
+2025-12-18 11:47:27,823 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-EEPRMA1.5.2.0
+2025-12-18 11:47:27,833 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ST67W61.1.1.0
+2025-12-18 11:47:27,901 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.12.0.0
+2025-12-18 11:47:28,097 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G0.1.1.0
+2025-12-18 11:47:28,107 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SAFEA1.1.2.2
+2025-12-18 11:47:28,115 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC4.3.0.0
+2025-12-18 11:47:28,127 [WARN] PackLoader:240 - Cannot read IP mode file for EmbeddedOffice.I-CUBE-FS-RTOS.1.0.1
+2025-12-18 11:47:28,134 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-WB05N.2.0.0
+2025-12-18 11:47:28,140 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfTPM.3.8.0
+2025-12-18 11:47:28,147 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TCPP.4.2.0
+2025-12-18 11:47:28,156 [WARN] PackLoader:240 - Cannot read IP mode file for RealThread.X-CUBE-RT-Thread_Nano.4.1.1
+2025-12-18 11:47:28,162 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-ATR-SIGFOX1.3.2.0
+2025-12-18 11:47:28,170 [WARN] PackLoader:240 - Cannot read IP mode file for ITTIA_DB.I-CUBE-ITTIADB.8.9.0
+2025-12-18 11:47:28,177 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ST67W61.1.0.0
+2025-12-18 11:47:28,183 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.10.2.0
+2025-12-18 11:47:28,223 [WARN] PackLoader:240 - Cannot read IP mode file for SEGGER.I-CUBE-embOS.1.3.1
+2025-12-18 11:47:28,310 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALGOBUILD.1.4.0
+2025-12-18 11:47:28,392 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.11.3.0
+2025-12-18 11:47:28,597 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-PM33A1.1.0.0
+2025-12-18 11:47:28,629 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F4.1.1.0
+2025-12-18 11:47:28,637 [WARN] PackLoader:240 - Cannot read IP mode file for Avnet-IotConnect.X-CUBE-IoTC-DA16k-PMOD.1.0.0
+2025-12-18 11:47:28,643 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ISPU.2.1.0
+2025-12-18 11:47:28,664 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-IPS.3.2.0
+2025-12-18 11:47:28,680 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC12.1.0.0
+2025-12-18 11:47:28,704 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L5.2.0.0
+2025-12-18 11:47:28,719 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC6.3.1.0
+2025-12-18 11:47:28,727 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-FREERTOS.1.3.1
+2025-12-18 11:47:28,736 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.26.0
+2025-12-18 11:47:28,742 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-STAIOTCFT.1.0.0
+2025-12-18 11:47:28,749 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DPower.1.3.0
+2025-12-18 11:47:28,786 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : LAN8742 Phy interface Condition cause : null
+2025-12-18 11:47:28,787 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L4.2.0.0
+2025-12-18 11:47:28,788 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2025-12-18 11:47:28,789 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2025-12-18 11:47:28,789 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2025-12-18 11:47:28,798 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0
+2025-12-18 11:47:28,813 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLEMGR.4.1.0
+2025-12-18 11:47:28,833 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 11:47:28,833 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 11:47:28,836 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0
+2025-12-18 11:47:28,837 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 11:47:28,837 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 11:47:28,837 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 11:47:28,838 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 11:47:28,838 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-12-18 11:47:28,844 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-GNSS1.7.0.1
+2025-12-18 11:47:28,848 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.25.0
+2025-12-18 11:47:28,878 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : Cortex-A Device cause : null
+2025-12-18 11:47:28,890 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : Cortex-A Device cause : null
+2025-12-18 11:47:28,890 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : Cortex-A Device cause : null
+2025-12-18 11:47:28,890 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : Cortex-A Device cause : null
+2025-12-18 11:47:28,902 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SUBG2.5.0.0
+2025-12-18 11:47:28,929 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7RS.1.1.0
+2025-12-18 11:47:28,937 [WARN] PackLoader:240 - Cannot read IP mode file for Cesanta.I-CUBE-Mongoose.7.13.0
+2025-12-18 11:47:28,954 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G4.2.0.0
+2025-12-18 11:47:28,961 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfSSH.1.4.20
+2025-12-18 11:47:28,966 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC7.2.0.0
+2025-12-18 11:47:28,982 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-IPS.3.1.0
+2025-12-18 11:47:28,992 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALS.1.0.2
+2025-12-18 11:47:29,001 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-STSE01.1.0.0
+2025-12-18 11:47:29,015 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOF1.3.4.3
+2025-12-18 11:47:29,029 [INFO] ThirdParty:978 - Integrity check success = true
+2025-12-18 11:47:29,029 [INFO] IntegrityCheckThread:100 - exiting critical section [integrity check]
+2025-12-18 11:47:29,029 [INFO] IntegrityCheckThread:103 - End integrity checks thread
+2025-12-18 12:01:05,609 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 12:01:05,625 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 12:01:05,639 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 12:02:14,932 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 12:02:14,945 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 12:02:14,956 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 12:03:22,529 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 12:03:22,541 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 12:03:22,555 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 12:04:14,751 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 12:04:14,765 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 12:04:14,778 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 12:05:19,143 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2025-12-18 12:05:20,646 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 12:05:22,460 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 12:05:29,521 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2025-12-18 12:05:31,526 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
+2025-12-18 12:05:34,918 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2025-12-18 12:14:17,501 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 12:14:17,517 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-18 12:14:17,533 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target

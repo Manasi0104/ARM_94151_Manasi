@@ -1,0 +1,10 @@
+15:52:41 **** Incremental Build of configuration Debug for project allblibkfor300 ****
+make -j4 all 
+arm-none-eabi-size  allblibkfor300.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1040	      4	   1564	   2608	    a30	allblibkfor300.elf
+Finished building: default.size.stdout
+ 
+
+15:52:42 Build Finished. 0 errors, 0 warnings. (took 398ms)
+

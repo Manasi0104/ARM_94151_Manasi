@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Question01/Src/extint_init.c&apos; to &apos;extint.c&apos;" description="Rename resource &apos;extint_init.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Src/extint_init.c" name="extint.c" stamp="1766127790139" updateReferences="true"/>
+</session>

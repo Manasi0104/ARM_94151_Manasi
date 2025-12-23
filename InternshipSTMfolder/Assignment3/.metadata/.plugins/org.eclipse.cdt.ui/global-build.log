@@ -1,0 +1,21 @@
+15:53:41 **** Incremental Build of configuration Debug for project switchledblink.c ****
+make -j4 all 
+arm-none-eabi-gcc "../Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F407G_DISC1 -DSTM32F4 -DSTM32F407VGTx -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/main.d" -MT"Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=soft -mthumb -o "Src/main.o"
+arm-none-eabi-gcc -o "switchledblink.c.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\InternshipGIT\ARM_94151_Manasi\InternshipSTMfolder\switchledblink.c\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="switchledblink.c.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: switchledblink.c.elf
+ 
+arm-none-eabi-size  switchledblink.c.elf 
+arm-none-eabi-objdump -h -S switchledblink.c.elf  > "switchledblink.c.list"
+   text	   data	    bss	    dec	    hex	filename
+   1156	      4	   1564	   2724	    aa4	switchledblink.c.elf
+Finished building: default.size.stdout
+ 
+Finished building: switchledblink.c.list
+ 
+15:54:46 **** Incremental Build of configuration Debug for project switchledblink.c ****
+make -j4 all 
+arm-none-eabi-size  switchledblink.c.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1156	      4	   1564	   2724	    aa4	switchledblink.c.elf
+Finished building: default.size.stdout
+ 

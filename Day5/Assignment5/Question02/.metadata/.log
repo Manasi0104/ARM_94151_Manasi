@@ -1,0 +1,44 @@
+!SESSION 2025-12-23 10:58:54.200 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  C:\InternshipGIT\ARM_94151_Manasi\Day5\Assignment5\Question02\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\InternshipGIT\ARM_94151_Manasi\Day5\Assignment5\Question02\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-12-23 10:59:22.547
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-12-23 10:59:22.551
+!MESSAGE Log4j2 initialized with config file C:\InternshipGIT\ARM_94151_Manasi\Day5\Assignment5\Question02\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-12-23 10:59:28.496
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-12-23 11:03:18.096 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  C:\InternshipGIT\ARM_94151_Manasi\Day5\Assignment5\Question02\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\InternshipGIT\ARM_94151_Manasi\Day5\Assignment5\Question02\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-12-23 11:03:51.774
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-12-23 11:03:51.776
+!MESSAGE Log4j2 initialized with config file C:\InternshipGIT\ARM_94151_Manasi\Day5\Assignment5\Question02\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-12-23 11:03:59.262
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-23 11:11:15.384
+!MESSAGE Indexed 'Question02' (8 sources, 70 headers) in 7.73 sec: 4,201 declarations; 5,862 references; 11 unresolved inclusions; 65 syntax errors; 1,474 unresolved names (13%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-23 11:19:14.032
+!MESSAGE Indexed 'Question03' (7 sources, 66 headers) in 3.01 sec: 3,437 declarations; 5,808 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.022%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-23 11:24:36.111
+!MESSAGE Indexed 'Question01' (7 sources, 66 headers) in 2.5 sec: 3,435 declarations; 5,802 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.022%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-23 11:32:21.336
+!MESSAGE Indexed 'Led_switch_exti0' (7 sources, 66 headers) in 2.29 sec: 3,435 declarations; 5,802 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.022%)

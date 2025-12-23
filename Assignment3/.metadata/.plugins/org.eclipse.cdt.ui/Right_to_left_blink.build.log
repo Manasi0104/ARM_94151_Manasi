@@ -1,0 +1,10 @@
+16:04:18 **** Incremental Build of configuration Debug for project Right_to_left_blink ****
+make -j4 all 
+arm-none-eabi-size  Right_to_left_blink.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1040	      4	   1564	   2608	    a30	Right_to_left_blink.elf
+Finished building: default.size.stdout
+ 
+
+16:04:18 Build Finished. 0 errors, 0 warnings. (took 426ms)
+

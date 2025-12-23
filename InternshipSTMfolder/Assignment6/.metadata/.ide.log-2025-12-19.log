@@ -1,0 +1,106 @@
+2025-12-19 14:28:24,752 [INFO] Activator:176 - 
+
+
+2025-12-19 14:28:24,756 [INFO] Activator:177 - !SESSION log4j initialized
+2025-12-19 14:28:31,198 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2025-12-19 14:28:37,174 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-19 14:28:37,202 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-19 14:28:37,224 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-19 14:28:40,032 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659
+2025-12-19 14:28:40,072 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/mcu/
+2025-12-19 14:28:40,072 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/boardmanager/
+2025-12-19 14:28:40,073 [WARN] ApiDb:259 - Overriding images path with different value:  => C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/mcufinder/images/
+2025-12-19 14:28:40,089 [INFO] ApiDb:250 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-19 14:28:40,092 [INFO] DbMcusAds:125 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-19 14:28:40,097 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/cs/
+2025-12-19 14:28:40,477 [INFO] RulesReader:64 - Compatibility file has been processed (317 Rules)
+2025-12-19 14:28:40,731 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/mcu/
+2025-12-19 14:28:40,731 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/boardmanager/
+2025-12-19 14:28:40,732 [INFO] ApiDb:261 - Set plugin images path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/mcufinder/images/
+2025-12-19 14:28:40,732 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-19 14:28:40,732 [INFO] ApiDb:250 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-19 14:28:40,733 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-19 14:28:40,733 [INFO] DbMcusAds:125 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-19 14:28:40,733 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-19 14:28:40,733 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-19 14:28:40,734 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/cs/
+2025-12-19 14:28:40,912 [INFO] MainPanel:274 - HeapMemory: 268435456
+2025-12-19 14:28:41,138 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/mcu/
+2025-12-19 14:28:41,139 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/boardmanager/
+2025-12-19 14:28:41,139 [INFO] ApiDb:261 - Set plugin images path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/mcufinder/images/
+2025-12-19 14:28:41,139 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-19 14:28:41,140 [INFO] ApiDb:250 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-19 14:28:41,140 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-19 14:28:41,140 [INFO] DbMcusAds:125 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-19 14:28:41,140 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-19 14:28:41,140 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-19 14:28:41,141 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/cs/
+2025-12-19 14:28:41,177 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659
+2025-12-19 14:28:41,181 [INFO] PluginManage:196 - Search for loadable plugins [exclusion list=, ]
+2025-12-19 14:28:41,184 [INFO] PluginManage:310 - Check plugin analytics
+2025-12-19 14:28:43,812 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-19 14:28:43,834 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-19 14:28:43,849 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-19 14:28:46,396 [INFO] AnalyticsPlugin:253 - Accepted Software Licenses: 
+2025-12-19 14:28:46,397 [INFO] AnalyticsPlugin:255 - Accepted CMSIS Pack Licenses: 
+2025-12-19 14:28:46,397 [INFO] AnalyticsPlugin:257 - Accepted Firmware Licenses: 
+2025-12-19 14:28:46,399 [INFO] PluginManage:359 - Loaded plugin analytics (category:tool,tabindex:-1)
+2025-12-19 14:28:46,402 [INFO] PluginManage:310 - Check plugin cadmodel
+2025-12-19 14:28:46,432 [INFO] CADModel:105 - Init CAD model plugin
+2025-12-19 14:28:46,433 [INFO] PluginManage:359 - Loaded plugin cadmodel (category:power,tabindex:5)
+2025-12-19 14:28:46,433 [INFO] PluginManage:310 - Check plugin clock
+2025-12-19 14:28:46,476 [INFO] PluginManage:359 - Loaded plugin clock (category:base,tabindex:2)
+2025-12-19 14:28:46,478 [INFO] PluginManage:310 - Check plugin ddr
+2025-12-19 14:28:46,502 [INFO] PluginManage:359 - Loaded plugin ddr (category:tool,tabindex:6)
+2025-12-19 14:28:46,503 [INFO] PluginManage:310 - Check plugin filemanager
+2025-12-19 14:28:46,587 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-19 14:28:46,604 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-19 14:28:46,623 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-19 14:29:09,464 [INFO] Activator:176 - 
+
+
+2025-12-19 14:29:09,468 [INFO] Activator:177 - !SESSION log4j initialized
+2025-12-19 14:29:15,150 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2025-12-19 14:29:20,923 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-19 14:29:20,941 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-19 14:29:20,986 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-19 14:29:24,047 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659
+2025-12-19 14:29:24,083 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/mcu/
+2025-12-19 14:29:24,083 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/boardmanager/
+2025-12-19 14:29:24,084 [WARN] ApiDb:259 - Overriding images path with different value:  => C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/mcufinder/images/
+2025-12-19 14:29:24,096 [INFO] ApiDb:250 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-19 14:29:24,098 [INFO] DbMcusAds:125 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-19 14:29:24,103 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/cs/
+2025-12-19 14:29:24,436 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-19 14:29:24,480 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-19 14:29:24,535 [ERROR] ConfigurationRetriever:142 - IOException on connection: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-12-19 14:29:24,770 [INFO] RulesReader:64 - Compatibility file has been processed (317 Rules)
+2025-12-19 14:29:24,968 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/mcu/
+2025-12-19 14:29:24,968 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/boardmanager/
+2025-12-19 14:29:24,969 [INFO] ApiDb:261 - Set plugin images path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/mcufinder/images/
+2025-12-19 14:29:24,969 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-19 14:29:24,970 [INFO] ApiDb:250 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-19 14:29:24,970 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-19 14:29:24,970 [INFO] DbMcusAds:125 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-19 14:29:24,971 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-19 14:29:24,971 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-19 14:29:24,972 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/cs/
+2025-12-19 14:29:25,207 [INFO] MainPanel:274 - HeapMemory: 268435456
+2025-12-19 14:29:25,452 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/mcu/
+2025-12-19 14:29:25,452 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/boardmanager/
+2025-12-19 14:29:25,452 [INFO] ApiDb:261 - Set plugin images path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/mcufinder/images/
+2025-12-19 14:29:25,453 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-19 14:29:25,454 [INFO] ApiDb:250 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-19 14:29:25,454 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-19 14:29:25,454 [INFO] DbMcusAds:125 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/
+2025-12-19 14:29:25,454 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-19 14:29:25,455 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder/ => C:\Users\ADMIN\.stmcufinder\plugins\mcufinder
+2025-12-19 14:29:25,455 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\ADMIN\.stmcufinder\plugins\mcufinder//mcu/cs/
+2025-12-19 14:29:25,508 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659
+2025-12-19 14:29:25,512 [INFO] PluginManage:196 - Search for loadable plugins [exclusion list=, ]
+2025-12-19 14:29:25,515 [INFO] PluginManage:310 - Check plugin analytics
+2025-12-19 14:30:10,188 [INFO] Activator:176 - 
+
+
+2025-12-19 14:30:10,192 [INFO] Activator:177 - !SESSION log4j initialized
+2025-12-19 14:30:16,364 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
