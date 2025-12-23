@@ -37,12 +37,14 @@ int main(void)
 		led_on(12);
 		DelayMs(200);
 		}
+		ext_flag =0;
 		while(ext_flag == 0);
 		if(ext_flag ==1)
 		{
 		led_off(12);
 		DelayMs(200);
 		}
+		ext_flag =0;
 	}
 }
 
