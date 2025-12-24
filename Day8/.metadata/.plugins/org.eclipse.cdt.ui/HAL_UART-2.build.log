@@ -1,0 +1,10 @@
+12:35:48 **** Build of configuration Debug for project HAL_UART-2 ****
+make -j4 all 
+arm-none-eabi-size  HAL_UART-2.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11820	     12	   1748	  13580	   350c	HAL_UART-2.elf
+Finished building: default.size.stdout
+ 
+
+12:35:49 Build Finished. 0 errors, 0 warnings. (took 526ms)
+

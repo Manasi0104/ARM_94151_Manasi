@@ -1,21 +1,46 @@
-13:08:45 **** Incremental Build of configuration Debug for project HAL_USART2 ****
+12:55:20 **** Incremental Build of configuration Debug for project Question3 ****
 make -j4 all 
 arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
-arm-none-eabi-gcc -o "HAL_USART2.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\InternshipGIT\ARM_94151_Manasi\Day8\HAL_USART2\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="HAL_USART2.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
-Finished building target: HAL_USART2.elf
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:117:62: warning: implicit declaration of function 'strlen' [-Wimplicit-function-declaration]
+  117 |                   HAL_UART_Transmit(&huart2, (uint8_t*)msg1, strlen(msg1), HAL_MAX_DELAY);
+      |                                                              ^~~~~~
+../Core/Src/main.c:21:1: note: include '<string.h>' or provide a declaration of 'strlen'
+   20 | #include "main.h"
+  +++ |+#include <string.h>
+   21 | 
+../Core/Src/main.c:117:62: warning: incompatible implicit declaration of built-in function 'strlen' [-Wbuiltin-declaration-mismatch]
+  117 |                   HAL_UART_Transmit(&huart2, (uint8_t*)msg1, strlen(msg1), HAL_MAX_DELAY);
+      |                                                              ^~~~~~
+../Core/Src/main.c:117:62: note: include '<string.h>' or provide a declaration of 'strlen'
+../Core/Src/main.c:121:19: warning: implicit declaration of function 'strupr' [-Wimplicit-function-declaration]
+  121 |                   strupr(rx_buffer);
+      |                   ^~~~~~
+../Core/Src/main.c:130:45: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+  130 |                   HAL_UART_Transmit(&huart2,(uint8_t*)len, 1, HAL_MAX_DELAY);
+      |                                             ^
+arm-none-eabi-gcc -o "Question3.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\InternshipGIT\ARM_94151_Manasi\Day8\Question3\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Question3.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: Question3.elf
  
-arm-none-eabi-size  HAL_USART2.elf 
-arm-none-eabi-objdump -h -S HAL_USART2.elf  > "HAL_USART2.list"
+arm-none-eabi-size  Question3.elf 
+arm-none-eabi-objdump -h -S Question3.elf  > "Question3.list"
    text	   data	    bss	    dec	    hex	filename
-   8364	     12	   1644	  10020	   2724	HAL_USART2.elf
+  11736	     12	   1748	  13496	   34b8	Question3.elf
 Finished building: default.size.stdout
  
-Finished building: HAL_USART2.list
+Finished building: Question3.list
  
-13:10:05 **** Incremental Build of configuration Debug for project HAL_USART2 ****
+12:55:24 **** Incremental Build of configuration Debug for project Question3 ****
 make -j4 all 
-arm-none-eabi-size  HAL_USART2.elf 
+arm-none-eabi-size  Question3.elf 
    text	   data	    bss	    dec	    hex	filename
-   8364	     12	   1644	  10020	   2724	HAL_USART2.elf
+  11736	     12	   1748	  13496	   34b8	Question3.elf
+Finished building: default.size.stdout
+ 
+12:55:36 **** Incremental Build of configuration Debug for project Question3 ****
+make -j4 all 
+arm-none-eabi-size  Question3.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11736	     12	   1748	  13496	   34b8	Question3.elf
 Finished building: default.size.stdout
  

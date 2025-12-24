@@ -36,3 +36,54 @@ java.net.SocketException: Connection reset
 	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.lambda$run$3(HttpClientImpl.java:1412)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
 	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:1412)
+!SESSION 2025-12-24 08:31:23.722 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-12-24 08:32:32.935
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-12-24 08:32:32.937
+!MESSAGE Log4j2 initialized with config file C:\InternshipGIT\ARM_94151_Manasi\Day8\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-12-24 08:32:53.666
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-24 09:05:05.190
+!MESSAGE Indexed 'HAL_UART-2' (20 sources, 120 headers) in 14.9 sec: 11,375 declarations; 42,742 references; 1 unresolved inclusions; 92 syntax errors; 240 unresolved names (0.44%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-24 09:48:53.566
+!MESSAGE Indexed 'Question01' (0 sources, 0 headers) in 0.002 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-24 09:49:06.588
+!MESSAGE Indexed 'Question01' (19 sources, 81 headers) in 8.28 sec: 4,442 declarations; 18,507 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0087%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-24 09:53:19.372
+!MESSAGE Indexed 'Question1' (19 sources, 81 headers) in 10.3 sec: 4,442 declarations; 18,507 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0087%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-24 11:06:25.638
+!MESSAGE Indexed 'Question2' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-24 11:06:36.317
+!MESSAGE Indexed 'Question2' (19 sources, 81 headers) in 7.57 sec: 4,442 declarations; 18,507 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0087%)
+!SESSION 2025-12-24 11:48:27.960 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-12-24 11:48:43.513
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-12-24 11:48:43.517
+!MESSAGE Log4j2 initialized with config file C:\InternshipGIT\ARM_94151_Manasi\Day8\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-12-24 11:48:59.182
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-24 12:22:17.302
+!MESSAGE Indexed 'Question3' (19 sources, 81 headers) in 7.03 sec: 4,442 declarations; 18,507 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0087%)
