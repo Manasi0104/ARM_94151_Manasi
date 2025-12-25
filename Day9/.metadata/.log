@@ -16,3 +16,24 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY org.eclipse.cdt.core 1 0 2025-12-25 08:40:45.333
 !MESSAGE Indexed 'HAL_01' (19 sources, 81 headers) in 8.6 sec: 4,442 declarations; 18,507 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0087%)
+!SESSION 2025-12-25 10:15:16.640 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-12-25 10:16:26.341
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-12-25 10:16:26.343
+!MESSAGE Log4j2 initialized with config file C:\InternshipGIT\ARM_94151_Manasi\Day9\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-12-25 10:16:39.508
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-25 10:17:25.125
+!MESSAGE Indexed 'HAL_BUZZER01' (19 sources, 115 headers) in 8.09 sec: 10,349 declarations; 35,952 references; 1 unresolved inclusions; 92 syntax errors; 240 unresolved names (0.52%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-25 10:30:24.217
+!MESSAGE Indexed 'HAL_UART_BUZZER' (19 sources, 81 headers) in 6.19 sec: 4,442 declarations; 18,507 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0087%)
