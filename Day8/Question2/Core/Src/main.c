@@ -113,20 +113,23 @@ int main(void)
 	  {
 		  rx_buffer[rx_index] = '\0';
 		  //int a = strcmp(rx_buffer,"RED_LED");
-		  if(strcmp(rx_buffer,"RED_LED"))
-		  {
-			  HAL_GPIO_TogglePin(GPIOD, GPIO_PIN_13);
-
-		  }
-		  else if(strcmp(rx_buffer,"ORANGE_LED"))
+		  if(strcmp(rx_buffer,"RED_LED")==0)
 		  {
 			  HAL_GPIO_TogglePin(GPIOD, GPIO_PIN_14);
+
+		  }
+		  else if(strcmp(rx_buffer,"ORANGE_LED")==0)
+		  {
+			  HAL_GPIO_TogglePin(GPIOD, GPIO_PIN_13);
 		  }
 		  else
 		  {
 			  char msg[32] = "\r\nInvalid Command";
 			  HAL_UART_Transmit(&huart2,(uint8_t*) msg, strlen(msg), HAL_MAX_DELAY);
+
 		  }
+		  char msg3[32] = "\r\n";
+		  HAL_UART_Transmit(&huart2, (uint8_t*)msg3, strlen(msg3), HAL_MAX_DELAY);
 		  rx_index =0;
 	  }
 	  else

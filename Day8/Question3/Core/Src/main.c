@@ -18,7 +18,8 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
-
+#include<stdio.h>
+#include<string.h>
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
@@ -113,23 +114,25 @@ int main(void)
 	      {
 	          rx_buffer[rx_index] = '\0';   // terminate string
 
-	          char msg1[] = "\r\nYou sent: ";
+	          char msg1[32] = "\r\nYou sent: ";
 	          HAL_UART_Transmit(&huart2, (uint8_t*)msg1, strlen(msg1), HAL_MAX_DELAY);
 	          HAL_UART_Transmit(&huart2, (uint8_t*)rx_buffer, strlen(rx_buffer), HAL_MAX_DELAY);
 
 	          /* Convert to uppercase */
 	          strupr(rx_buffer);
 
-	          char msg2[] = "\r\nUppercase: ";
+	          char msg2[32] = "\r\nUppercase: ";
 	          HAL_UART_Transmit(&huart2, (uint8_t*)msg2, strlen(msg2), HAL_MAX_DELAY);
 	          HAL_UART_Transmit(&huart2, (uint8_t*)rx_buffer, strlen(rx_buffer), HAL_MAX_DELAY);
 
 	          int len = strlen(rx_buffer);
-	          char msg4[32]="\r\nlength :";
+	          char msg[50];
+	          sprintf(msg,"%d",len);
+	          char msg4[32]="\r\nLength :";
 	          HAL_UART_Transmit(&huart2,(uint8_t*)msg4, strlen(msg4), HAL_MAX_DELAY);
-	          HAL_UART_Transmit(&huart2,(uint8_t*)len, strlen(len), HAL_MAX_DELAY);
+	          HAL_UART_Transmit(&huart2,(uint8_t*)msg, strlen(msg), HAL_MAX_DELAY);
 
-	          char msg3[] = "\r\n";
+	          char msg3[32] = "\r\n";
 	          HAL_UART_Transmit(&huart2, (uint8_t*)msg3, strlen(msg3), HAL_MAX_DELAY);
 
 	          rx_index = 0;   // reset buffer
