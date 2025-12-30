@@ -1,0 +1,10 @@
+12:46:33 **** Incremental Build of configuration Debug for project MQ2_LCD_I2C ****
+make -j4 all 
+arm-none-eabi-size  MQ2_LCD_I2C.elf 
+   text	   data	    bss	    dec	    hex	filename
+  21948	     92	   2068	  24108	   5e2c	MQ2_LCD_I2C.elf
+Finished building: default.size.stdout
+ 
+
+12:46:33 Build Finished. 0 errors, 0 warnings. (took 318ms)
+
