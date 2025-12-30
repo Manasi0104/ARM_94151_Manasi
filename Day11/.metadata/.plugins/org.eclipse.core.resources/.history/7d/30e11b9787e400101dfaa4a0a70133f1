@@ -1,0 +1,13 @@
+/*
+ * adc.h
+ *
+ *  Created on: Dec 29, 2025
+ *      Author: ADMIN
+ */
+
+#ifndef INC_ADC_H_
+#define INC_ADC_H_
+
+static void MX_ADC1_Init(void);
+
+#endif /* INC_ADC_H_ */

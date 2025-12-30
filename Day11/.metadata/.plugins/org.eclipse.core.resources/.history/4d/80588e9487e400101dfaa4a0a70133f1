@@ -1,0 +1,13 @@
+/*
+ * i2c.h
+ *
+ *  Created on: Dec 29, 2025
+ *      Author: ADMIN
+ */
+
+#ifndef INC_I2C_H_
+#define INC_I2C_H_
+
+static void MX_I2C1_Init(void);
+
+#endif /* INC_I2C_H_ */

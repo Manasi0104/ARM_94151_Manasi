@@ -1,0 +1,13 @@
+/*
+ * gpio.h
+ *
+ *  Created on: Dec 29, 2025
+ *      Author: ADMIN
+ */
+
+#ifndef INC_GPIO_H_
+#define INC_GPIO_H_
+
+
+ void MX_GPIO_Init(void);
+#endif /* INC_GPIO_H_ */

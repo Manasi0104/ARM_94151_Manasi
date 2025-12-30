@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;MQ2Interfacing/Core/Src/my_lcd.h&apos;" deleteContents="false" description="Delete resource &apos;MQ2Interfacing/Core/Src/my_lcd.h&apos;" element1="/MQ2Interfacing/Core/Src/my_lcd.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1766990486848"/>&#x0A;<refactoring comment="Delete resource &apos;Smart_Env_Monitor&apos;" deleteContents="false" description="Delete resource &apos;Smart_Env_Monitor&apos;" element1="/Smart_Env_Monitor" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1767065545447"/>
+</session>

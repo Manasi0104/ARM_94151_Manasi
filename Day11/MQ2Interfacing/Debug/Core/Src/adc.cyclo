@@ -1,0 +1,2 @@
+../Core/Src/adc.c:21:6:MX_ADC1_Init	3
+../Core/Src/adc.c:67:6:Error_Handler	1
