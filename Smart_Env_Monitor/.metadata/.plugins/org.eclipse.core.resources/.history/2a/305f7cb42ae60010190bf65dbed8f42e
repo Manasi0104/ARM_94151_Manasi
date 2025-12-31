@@ -1,0 +1,15 @@
+/*
+ * dht11.c
+ *
+ *  Created on: Dec 30, 2025
+ *      Author: ADMIN
+ */
+#include "dht11.h"
+#include "main.h"
+void dht11_operation()
+{
+	HAL_GPIO_WritePin(GPIOA,GPIO_PIN_0,GPIO_PIN_RESET);
+	DWT_Delay_us();
+	HAL_GPIO_WritePin(GPIOA,GPIO_PIN_0,GPIO_PIN_SET);
+	DWT_Delay_us();
+}

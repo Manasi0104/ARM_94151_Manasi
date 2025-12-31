@@ -1,4 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;MQ2_LCD_I2C2&apos; to &apos;MQ2_LCD_I2C&apos;" description="Rename resource &apos;MQ2_LCD_I2C2&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/MQ2_LCD_I2C2" name="MQ2_LCD_I2C" stamp="1767072832298" updateReferences="true"/>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;MQ2_LCD_I2C2&apos; to &apos;MQ2_LCD_I2C&apos;" description="Rename resource &apos;MQ2_LCD_I2C2&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/MQ2_LCD_I2C2" name="MQ2_LCD_I2C" stamp="1767072832298" updateReferences="true"/>&#x0A;<refactoring comment="Delete resource &apos;DHT11_GPIO/Core/Inc/DHT11.h&apos;" deleteContents="false" description="Delete resource &apos;DHT11_GPIO/Core/Inc/DHT11.h&apos;" element1="/DHT11_GPIO/Core/Inc/DHT11.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1767166017823"/>
 </session>

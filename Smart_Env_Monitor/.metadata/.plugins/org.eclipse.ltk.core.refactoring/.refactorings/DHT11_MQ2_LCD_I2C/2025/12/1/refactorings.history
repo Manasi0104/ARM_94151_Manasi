@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;DHT11_MQ2_LCD_I2C/MQ2_LCD_I2C.ioc&apos; to &apos;DHT11_MQ2_LCD_I2C.ioc&apos;" description="Rename resource &apos;MQ2_LCD_I2C.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="MQ2_LCD_I2C.ioc" name="DHT11_MQ2_LCD_I2C.ioc" stamp="1767092881053" updateReferences="true"/>
+</session>

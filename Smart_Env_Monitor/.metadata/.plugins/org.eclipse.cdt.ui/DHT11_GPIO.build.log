@@ -1,0 +1,112 @@
+11:40:18 **** Incremental Build of configuration Debug for project DHT11_GPIO ****
+make -j4 all 
+arm-none-eabi-gcc "../Core/Src/DHT11.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/DHT11.d" -MT"Core/Src/DHT11.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/DHT11.o"
+arm-none-eabi-gcc "../Core/Src/my_lcd.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/my_lcd.d" -MT"Core/Src/my_lcd.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/my_lcd.o"
+In file included from ../Core/Src/DHT11.c:7:
+../Core/Inc/dht11.h:8: error: unterminated #ifndef
+    8 | #ifndef INC_DHT11_H_
+      | 
+../Core/Src/my_lcd.c: In function 'lcd16x2_i2c_Gasoperation':
+../Core/Src/my_lcd.c:243:35: error: 'adc_val' undeclared (first use in this function)
+  243 |         sprintf(str,"Smoke = %4d",adc_val);
+      |                                   ^~~~~~~
+../Core/Src/my_lcd.c:243:35: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [Core/Src/subdir.mk:40: Core/Src/my_lcd.o] Error 1
+make: *** Waiting for unfinished jobs....
+../Core/Src/DHT11.c: In function 'dht11_start_operation':
+../Core/Src/DHT11.c:67:9: warning: implicit declaration of function 'DHT11_Pin_Output' [-Wimplicit-function-declaration]
+   67 |         DHT11_Pin_Output();
+      |         ^~~~~~~~~~~~~~~~
+../Core/Src/DHT11.c:71:9: warning: implicit declaration of function 'DHT11_Pin_Input' [-Wimplicit-function-declaration]
+   71 |         DHT11_Pin_Input();
+      |         ^~~~~~~~~~~~~~~
+../Core/Src/DHT11.c:73:9: warning: implicit declaration of function 'dht11_read_operation'; did you mean 'dht11_start_operation'? [-Wimplicit-function-declaration]
+   73 |         dht11_read_operation();
+      |         ^~~~~~~~~~~~~~~~~~~~
+      |         dht11_start_operation
+../Core/Src/DHT11.c:66:13: warning: unused variable 'data_index' [-Wunused-variable]
+   66 |         int data_index = 0;
+      |             ^~~~~~~~~~
+../Core/Src/DHT11.c:65:13: warning: unused variable 'byte_index' [-Wunused-variable]
+   65 |         int byte_index=0;
+      |             ^~~~~~~~~~
+../Core/Src/DHT11.c:64:14: warning: unused variable 'data' [-Wunused-variable]
+   64 |         char data[5];
+      |              ^~~~
+../Core/Src/DHT11.c: At top level:
+../Core/Src/DHT11.c:75:6: warning: conflicting types for 'dht11_read_operation'; have 'void()'
+   75 | void dht11_read_operation()
+      |      ^~~~~~~~~~~~~~~~~~~~
+../Core/Src/DHT11.c:73:9: note: previous implicit declaration of 'dht11_read_operation' with type 'void()'
+   73 |         dht11_read_operation();
+      |         ^~~~~~~~~~~~~~~~~~~~
+../Core/Src/DHT11.c: In function 'dht11_read_operation':
+../Core/Src/DHT11.c:82:25: warning: implicit declaration of function 'LL_TIM_COUNTERMODE_UP'; did you mean 'TIM_COUNTERMODE_UP'? [-Wimplicit-function-declaration]
+   82 |                         LL_TIM_COUNTERMODE_UP(TIM1,0);
+      |                         ^~~~~~~~~~~~~~~~~~~~~
+      |                         TIM_COUNTERMODE_UP
+../Core/Src/DHT11.c:84:36: warning: implicit declaration of function 'LL_TIM_GetCounter' [-Wimplicit-function-declaration]
+   84 |                         int time = LL_TIM_GetCounter(TIM1);
+      |                                    ^~~~~~~~~~~~~~~~~
+../Core/Src/DHT11.c:105:51: error: 'byte' undeclared (first use in this function)
+  105 |                                              data[byte index] = data[byte index] | (1 << (7-byte_index) );
+      |                                                   ^~~~
+../Core/Src/DHT11.c:105:51: note: each undeclared identifier is reported only once for each function it appears in
+../Core/Src/DHT11.c:105:55: error: expected ']' before 'index'
+  105 |                                              data[byte index] = data[byte index] | (1 << (7-byte_index) );
+      |                                                       ^~~~~~
+      |                                                       ]
+../Core/Src/DHT11.c:105:74: error: expected ']' before 'index'
+  105 |                                              data[byte index] = data[byte index] | (1 << (7-byte_index) );
+      |                                                                          ^~~~~~
+      |                                                                          ]
+../Core/Src/DHT11.c:108:77: warning: variable 'parity' set but not used [-Wunused-but-set-variable]
+  108 |                         uint8_t hum_int =0,hum_dec =0,tem_int =0,tem_dec =0,parity = 0;
+      |                                                                             ^~~~~~
+../Core/Src/DHT11.c:108:66: warning: variable 'tem_dec' set but not used [-Wunused-but-set-variable]
+  108 |                         uint8_t hum_int =0,hum_dec =0,tem_int =0,tem_dec =0,parity = 0;
+      |                                                                  ^~~~~~~
+../Core/Src/DHT11.c:108:55: warning: variable 'tem_int' set but not used [-Wunused-but-set-variable]
+  108 |                         uint8_t hum_int =0,hum_dec =0,tem_int =0,tem_dec =0,parity = 0;
+      |                                                       ^~~~~~~
+../Core/Src/DHT11.c:108:44: warning: variable 'hum_dec' set but not used [-Wunused-but-set-variable]
+  108 |                         uint8_t hum_int =0,hum_dec =0,tem_int =0,tem_dec =0,parity = 0;
+      |                                            ^~~~~~~
+../Core/Src/DHT11.c:99:30: warning: unused variable 'str5' [-Wunused-variable]
+   99 |                         char str5[32];
+      |                              ^~~~
+../Core/Src/DHT11.c:98:30: warning: unused variable 'str4' [-Wunused-variable]
+   98 |                         char str4[32];
+      |                              ^~~~
+../Core/Src/DHT11.c:97:30: warning: unused variable 'str3' [-Wunused-variable]
+   97 |                         char str3[32];
+      |                              ^~~~
+../Core/Src/DHT11.c:96:30: warning: unused variable 'str2' [-Wunused-variable]
+   96 |                         char str2[32];
+      |                              ^~~~
+../Core/Src/DHT11.c: At top level:
+../Core/Src/DHT11.c:121:13: warning: conflicting types for 'DHT11_Pin_Output'; have 'void(void)'
+  121 | static void DHT11_Pin_Output(void)
+      |             ^~~~~~~~~~~~~~~~
+../Core/Src/DHT11.c:121:13: error: static declaration of 'DHT11_Pin_Output' follows non-static declaration
+../Core/Src/DHT11.c:67:9: note: previous implicit declaration of 'DHT11_Pin_Output' with type 'void(void)'
+   67 |         DHT11_Pin_Output();
+      |         ^~~~~~~~~~~~~~~~
+../Core/Src/DHT11.c:131:13: warning: conflicting types for 'DHT11_Pin_Input'; have 'void(void)'
+  131 | static void DHT11_Pin_Input(void)
+      |             ^~~~~~~~~~~~~~~
+../Core/Src/DHT11.c:131:13: error: static declaration of 'DHT11_Pin_Input' follows non-static declaration
+../Core/Src/DHT11.c:71:9: note: previous implicit declaration of 'DHT11_Pin_Input' with type 'void(void)'
+   71 |         DHT11_Pin_Input();
+      |         ^~~~~~~~~~~~~~~
+../Core/Src/DHT11.c:131:13: warning: 'DHT11_Pin_Input' defined but not used [-Wunused-function]
+  131 | static void DHT11_Pin_Input(void)
+      |             ^~~~~~~~~~~~~~~
+../Core/Src/DHT11.c:121:13: warning: 'DHT11_Pin_Output' defined but not used [-Wunused-function]
+  121 | static void DHT11_Pin_Output(void)
+      |             ^~~~~~~~~~~~~~~~
+make: *** [Core/Src/subdir.mk:40: Core/Src/DHT11.o] Error 1
+"make -j4 all" terminated with exit code 2. Build might be incomplete.
+
+11:40:20 Build Failed. 10 errors, 21 warnings. (took 1s.495ms)
+

@@ -1,0 +1,18 @@
+/*
+ * DHT11.h
+ *
+ *  Created on: Dec 30, 2025
+ *      Author: ADMIN
+ */
+
+#ifndef INC_DHT11_H_
+#define INC_DHT11_H_
+
+static void DHT11_Pin_Output(void);
+static void DHT11_Pin_Input(void);
+void dht11_start_operation();
+void dht11__operation(uint8_t a);
+uint8_t dht11_read_operation();
+void DWT_Delay_us(uint32_t us);
+void DWT_Init(void);
+#endif /* INC_DHT11_H_ */
