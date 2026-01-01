@@ -103,9 +103,8 @@ uint8_t hum;
         // LCD not detected
         while(1);
      }
-  lcd16x2_i2c_clear();
-  lcd16x2_i2c_setCursor(0,0);
-  lcd16x2_i2c_printf("Temp");
+
+
   /* USER CODE END 2 */
 
   /* Infinite loop */
@@ -115,20 +114,22 @@ uint8_t hum;
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
-	  DHT11_Read(&temp, &hum);
 	  char T[32];
 	  char H[32];
+	  lcd16x2_i2c_clear();
+	  DHT11_Read(&temp, &hum);
 	  sprintf(T,"%d",temp);
 	  sprintf(H,"%d",hum);
-	 HAL_UART_Transmit(&huart2, (uint8_t*)T, strlen(T),HAL_MAX_DELAY);
-	 HAL_UART_Transmit(&huart2, (uint8_t*)H, strlen(H),HAL_MAX_DELAY);
 	  lcd16x2_i2c_setCursor(0,0);
-	  lcd16x2_i2c_printf("Temp");
+	// HAL_UART_Transmit(&huart2, (uint8_t*)T, strlen(T),HAL_MAX_DELAY);
+	 //HAL_UART_Transmit(&huart2, (uint8_t*)H, strlen(H),HAL_MAX_DELAY);
+	 // lcd16x2_i2c_setCursor(0,0);
+	  //lcd16x2_i2c_printf("Temp");
 	  lcd16x2_i2c_printf(T);
 	  lcd16x2_i2c_setCursor(1,0);
-	  lcd16x2_i2c_printf("Hum");
+	  //lcd16x2_i2c_printf("Hum");
 	   lcd16x2_i2c_printf(H);
-	  HAL_Delay(1000);
+	  HAL_Delay(2000);
   }
   /* USER CODE END 3 */
 }
